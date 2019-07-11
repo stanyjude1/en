@@ -542,8 +542,8 @@ body.apps-craft-v6 .apps-craft-video-content {
     position: absolute;
     margin-top: 20px;
     top: 20px;
-    background-color: #f2504d;
-    background-image: -webkit-linear-gradient( -20deg, rgb(242,81,76) 0%, rgb(242,81,76) 0%, rgb(242,81,77) 0%, rgb(242,80,77) 1%, rgb(246,65,94) 57%, rgb(250,50,111) 100%);
+    background-color: #3b5998;
+    background-image: -webkit-linear-gradient( -20deg, rgb(59,89,152) 0%, rgb(59,89,153) 0%, rgb(59,89,154) 0%, rgb(59,89,154) 1%, rgb(41,62,106) 57%, rgb(23,35,60) 100%);
     background-image: -ms-linear-gradient( -20deg, rgb(242,81,76) 0%, rgb(242,81,76) 0%, rgb(242,81,77) 0%, rgb(242,80,77) 1%, rgb(246,65,94) 57%, rgb(250,50,111) 100%);
 }
 body.apps-craft-solid-color #apps-craft-menu {
@@ -569,7 +569,7 @@ body.apps-craft-solid-color #apps-craft-menu {
 .apps-craft-v4 #apps-craft-menu ,
 .apps-craft-v3 #apps-craft-menu ,
 .apps-craft-v2 #apps-craft-menu {
-    background-color: #F2504D;
+    background-color: #3b5998;
     background-image: -webkit-linear-gradient( 63deg, rgb(250,50,111) 0%, rgb(246,66,94) 53%, rgb(242,81,76) 100%, rgb(242,80,77) 100%);
     background-image: -ms-linear-gradient( 63deg, rgb(250,50,111) 0%, rgb(246,66,94) 53%, rgb(242,81,76) 100%, rgb(242,80,77) 100%);
 }
@@ -580,7 +580,7 @@ body.apps-craft-solid-color #apps-craft-menu {
 .apps-craft-v4 #apps-craft-menus .la-ball-elastic-dots.la-2x.item-generate ,
 .apps-craft-v3 #apps-craft-menus .la-ball-elastic-dots.la-2x.item-generate ,
 .apps-craft-v2 #apps-craft-menus .la-ball-elastic-dots.la-2x.item-generate {
-    color: #F2504D !important;
+    color: #3b5998 !important;
 }
 
 /* apps craft version 10*/
@@ -635,12 +635,12 @@ body.apps-craft-solid-color #apps-craft-menu {
 }
 /* apps craft version 17 */
 .apps-craft-v17 #apps-craft-menu {
-    background-color: #f2504d;
+    background-color: #3b5998;
     background-image: -webkit-linear-gradient( 63deg, rgb(250,50,111) 0%, rgb(246,66,94) 53%, rgb(242,81,76) 100%, rgb(242,80,77) 100%);
     background-image: -ms-linear-gradient( 63deg, rgb(250,50,111) 0%, rgb(246,66,94) 53%, rgb(242,81,76) 100%, rgb(242,80,77) 100%);
 }
 .apps-craft-v17 #apps-craft-menus .la-ball-elastic-dots.la-2x.item-generate {
-    color: #f2504d !important;
+    color: #3b5998 !important;
 }
 
 /* apps craft version 19 */
