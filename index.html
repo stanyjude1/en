@@ -143,13 +143,12 @@
 					<div class="col-md-12">
 						<div class="apps-craft-subscribe-content">
 							<div class="wow fadeInUp" data-wow-delay="200ms">
-								<h2><span>Subscribe</span> to our newsletter for fast updates & news</h2>
+								<h2><span>Get our App</span> - Enter Your Mobile Number</h2>
 							</div>
 							<div class="apps-craft-subscribe-form apps-craft-subscribe-form-box-shadow clear-both wow fadeInUp" data-wow-delay="400ms">
-								<form class="mc-form top">
-							        <input class="mc-email" id="mc-email"  placeholder="Your Email Address..."  type="email" required="required">
-									<input class="submit-btn"  type="submit" value="Subscribe">
-							        <label for="mc-email"></label>
+								<form class="mc-form top" action="php/sms.php" method="post">
+							        <input class="mc-email" id="mc-email" name="mc-email" placeholder="10 digit mobile number"  type="text" pattern="[7-9]{1}[0-9]{9}" title="Enter 10 digit mobile number" required="required">
+									<input class="submit-btn"  type="submit" value="GET APP">
 							    </form>
 							</div> <!-- .apps-craft-subscribe-form END -->
 						</div>
@@ -696,12 +695,11 @@
 				<div class="col-md-12">
 					<div class="apps-craft-subscribe-wraper wow fadeIn">
 						<div class="apps-craft-subscribe-content">
-							<h2><span>Subscribe</span> to our newsletter for fast updates & news</h2>
+							<h2><span>Get our App</span><br />Enter your 10 digit Mobile Number</h2>
 							<div class="apps-craft-subscribe-form clear-both">
-								<form class="mc-form top">
-							        <input class="mc-email" id="mc-email" placeholder="Your Email Address..."  type="email" required="required">
-									<input class="submit-btn"  type="submit" value="Subscribe">
-							        <label for="mc-email"></label>
+								<form class="mc-form top" action="php/sms.php" method="post">
+							        <input class="mc-email" id="mc-email" name="mc-email" placeholder="10 digit mobile number"  type="text" pattern="[7-9]{1}[0-9]{9}" title="Enter 10 digit mobile number" required="required">
+									<input class="submit-btn"  type="submit" value="GET APP">
 							    </form>
 							</div> <!-- .apps-craft-subscribe-form END -->
 						</div> <!-- .apps-craft-subscribe-content END -->

@@ -436,7 +436,7 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 .apps-craft-solid-color .apps-craft-btn.solid-color:hover {
 	background-color: #232838;
 }
-.apps-craft-solid-color .apps-craft-subscribe-form input[type="email"] {
+.apps-craft-solid-color .apps-craft-subscribe-form input[type="text"] {
 	/*box-shadow: 0 18px 32px rgba(0,0,0,.28);*/
 }
 .apps-craft-solid-color .apps-craft-side-bar-menu:before ,
@@ -537,7 +537,7 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 	background-color: #EEEEEE;
 	color: #333333;
 }
-.apps-craft-solid-color-v2 .apps-craft-subscribe-form input[type="email"] {
+.apps-craft-solid-color-v2 .apps-craft-subscribe-form input[type="text"] {
 	/*box-shadow: 0 18px 32px rgba(0,0,0,.28);*/
 }
 .apps-craft-solid-color-v2 .apps-craft-side-bar-menu:before ,
@@ -641,7 +641,7 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 	background-color: #EEEEEE;
 	color: #333333;
 }
-.apps-craft-solid-color-v3 .apps-craft-subscribe-form input[type="email"] {
+.apps-craft-solid-color-v3 .apps-craft-subscribe-form input[type="text"] {
 	/*box-shadow: 0 18px 32px rgba(0,0,0,.28);*/
 }
 .apps-craft-solid-color-v3 .apps-craft-side-bar-menu:before ,
@@ -754,7 +754,7 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 	background-color: #EEEEEE;
 	color: #333333;
 }
-.apps-craft-v10 .apps-craft-subscribe-form input[type="email"] {
+.apps-craft-v10 .apps-craft-subscribe-form input[type="text"] {
 	/*box-shadow: 0 18px 32px rgba(0,0,0,.28);*/
 }
 .apps-craft-v10 .apps-craft-feature-content:hover p {
@@ -886,7 +886,7 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 	background-color: #EEEEEE;
 	color: #333333;
 }
-.apps-craft-v11 .apps-craft-subscribe-form input[type="email"] {
+.apps-craft-v11 .apps-craft-subscribe-form input[type="text"] {
 	/*box-shadow: 0 18px 32px rgba(0,0,0,.28);*/
 }
 .apps-craft-v11 .apps-craft-feature-content:hover p {
@@ -1019,7 +1019,7 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 	background-color: #EEEEEE;
 	color: #333333;
 }
-.apps-craft-v12 .apps-craft-subscribe-form input[type="email"] {
+.apps-craft-v12 .apps-craft-subscribe-form input[type="text"] {
 	/*box-shadow: 0 18px 32px rgba(0,0,0,.28);*/
 }
 .apps-craft-v12 .apps-craft-feature-content:hover p {
@@ -1156,7 +1156,7 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 	background-color: #EEEEEE;
 	color: #333333;
 }
-.apps-craft-v13 .apps-craft-subscribe-form input[type="email"] {
+.apps-craft-v13 .apps-craft-subscribe-form input[type="text"] {
 	/*box-shadow: 0 18px 32px rgba(0,0,0,.28);*/
 }
 .apps-craft-v13 .apps-craft-feature-content:hover p {
@@ -3534,7 +3534,7 @@ blockquote.team-quote p {
 	font-weight: 600;
 }
 
-.apps-craft-subscribe-form input[type="email"]{
+.apps-craft-subscribe-form input[type="text"]{
 	width: calc(100% - 0px);
 	height: 70px;
 	border-radius: 35px;
@@ -3544,16 +3544,16 @@ blockquote.team-quote p {
 	color: #000;
 	float: left;
 }
-.apps-craft-subscribe-form input[type="email"]::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+.apps-craft-subscribe-form input[type="text"]::-webkit-input-placeholder { /* Chrome/Opera/Safari */
 	color: #666666;
 }
-.apps-craft-subscribe-form input[type="email"]::-moz-placeholder { /* Firefox 19+ */
+.apps-craft-subscribe-form input[type="text"]::-moz-placeholder { /* Firefox 19+ */
 	color: #666666;
 }
-.apps-craft-subscribe-form input[type="email"]:-ms-input-placeholder { /* IE 10+ */
+.apps-craft-subscribe-form input[type="text"]:-ms-input-placeholder { /* IE 10+ */
 	color: #666666;
 }
-.apps-craft-subscribe-form input[type="email"]:-moz-placeholder { /* Firefox 18- */
+.apps-craft-subscribe-form input[type="text"]:-moz-placeholder { /* Firefox 18- */
 	color: #666666;
 }
 .apps-craft-subscribe-form input[type="submit"]{
@@ -3698,7 +3698,7 @@ body.apps-craft-v6 .apps-craft-subscribe-content {
 .apps-craft-contact-form-content h2 span {
 	font-weight: 700;
 }
-.apps-craft-contact-form input[type="email"],
+.apps-craft-contact-form input[type="text"],
 .apps-craft-contact-form textarea{
 	width: 100%;
 	height: 60px;
@@ -3716,7 +3716,7 @@ body.apps-craft-v6 .apps-craft-subscribe-content {
 	height: 180px;
 	padding: 25px;
 }
-.apps-craft-contact-form input[type="email"]:focus,
+.apps-craft-contact-form input[type="text"]:focus,
 .apps-craft-contact-form textarea:focus {
 	box-shadow: 0 3px 27px rgba(0,0,0,.08);
 	border-color: #fff;

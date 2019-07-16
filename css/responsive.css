@@ -467,7 +467,7 @@ figure.apps-craft-why-chose-img img:first-child {
 .apps-craft-contact-form-content h2 {
     font-size: 2.0em;
 }
-.apps-craft-contact-form input[type="email"], .apps-craft-contact-form textarea {
+.apps-craft-contact-form input[type="text"], .apps-craft-contact-form textarea {
     height: 45px;
 }
 .apps-craft-contact-form textarea {
@@ -821,7 +821,7 @@ figure.apps-craft-why-chose-img img:last-child {
 .apps-craft-subscribe-content h2 {
     font-size: 1.5em;
 }
-.apps-craft-subscribe-form input[type="email"] {
+.apps-craft-subscribe-form input[type="text"] {
     width: calc(100% - 0px);
     height: 55px;
     padding: 0 15px;
