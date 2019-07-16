@@ -343,17 +343,9 @@ if ($('.apps-craft-accordion .panel-title').length > 0) {
   /*=============================================== 
        14. Newsletter Subscription
   ================================================*/
-  if ($('.mc-form').length > 0) {
-  $('.mc-form').each(function(index){
-    var formthis = $(this).ajaxChimp({
-        url: '//pixiefy.us13.list-manage.com/subscribe/post?u=1c19cb3fd3c3c6c56177c50ea&amp;id=967a07b6cc',
-        callback: callbackFunction
-    });
-     function callbackFunction(resp){
-      formthis.find('label').addClass('apps-craft-subscribed-label');
-    }
-  });
- }
+  
+
+  
 
 
 /*=============================================== 
