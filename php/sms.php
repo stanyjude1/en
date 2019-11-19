@@ -31,7 +31,7 @@
 		$manage = json_decode($response, true);
 		//echo $response;
 		if($manage['response']['status'] == 'success'){
-			header('Location: http://localhost/apps-craft/');
+			header('Location: http://edunetwork.iugale.tech/');
 		}
 	}
 ?>
