@@ -3,7 +3,7 @@
 	$post_fields = array();
 	$post_fields["method"] = "sendMessage";
 	$post_fields["send_to"] = "91".$_POST['mc-email'];
-	$post_fields["msg"] = "Kindly download the Edu-network link - GoogleLink";
+	$post_fields["msg"] = "You can now download EduNetwork from here - https://play.google.com/store/apps/details?id=com.app.edunetwork&hl=en";
 	$post_fields["msg_type"] = "TEXT";
 	$post_fields["userid"] = "2000186787";
 	$post_fields["password"] = "subten";
