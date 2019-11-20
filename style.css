@@ -1912,7 +1912,7 @@ body.apps-craft-video-banner .apps-craft-welcome-container {
 
 .apps-craft-welcome-section-screen-short {
 	position: relative;
-	z-index: 0;
+	z-index: 1;
 }
 .apps-craft-welcome-section-v4 .apps-craft-welcome-section-screen-short {
 	z-index: 1;
