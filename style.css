@@ -272,8 +272,8 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 }
 
 .apps-craft-feature-content:before {
-	background-image: -webkit-linear-gradient( 63deg, rgb(250,50,111) 0%, rgb(246,66,94) 53%, rgb(242,81,76) 100%);
-	background-image: -ms-linear-gradient( 63deg, rgb(250,50,111) 0%, rgb(246,66,94) 53%, rgb(242,81,76) 100%);
+	background-image: -webkit-linear-gradient(-106deg, #758ab6, #c4cde0, #758ab6);
+	background-image: -ms-linear-gradient(-106deg, #758ab6, #c4cde0, #758ab6);
 }
 .apps-craft-feature-content i{
 	background-image: -webkit-linear-gradient( 42deg, rgb(242,81,76) 0%, rgb(246,66,94) 52%, rgb(250,50,111) 100%);
@@ -1423,7 +1423,7 @@ body.apps-craft-v18.apps-craft--loaded .apps-craft-18-banner-bg-wrap span:nth-ch
 	color: #FFFFFF;
 	font-size: 1.0em;
 	display: block;
-	padding: 8px 0;
+	padding: 30px 0;
 	margin: 0 17px;
 	font-weight: 400;
 	-webkit-transition: all .4s linear;
@@ -1483,7 +1483,8 @@ body.apps-craft-v18.apps-craft--loaded .apps-craft-18-banner-bg-wrap span:nth-ch
 .apps-craft-main-menu-area.sticky-menu .apps-craft-logo a {
 	background-image: url(img/sticky-logo_ori.png) !important;
 	background-size: contain;
-	padding: 3px 0px;
+	padding: 30px 0px;
+	border-radius: 5px;
 	width: 100%;
 	background-repeat: no-repeat;
 	background-position: center center;
