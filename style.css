@@ -280,9 +280,9 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 	background-image: -ms-linear-gradient( 42deg, rgb(242,81,76) 0%, rgb(246,66,94) 52%, rgb(250,50,111) 100%);
 }
 .apps-craft-video-content a i {
-	background-image: -webkit-linear-gradient(-106deg, #3b5998, #293e6a, #17233c);
-	background-image: -webkit-linear-gradient(196deg, #3b5998, #293e6a, #17233c);
-	background-image: linear-gradient(-106deg, #3b5998, #293e6a, #17233c);
+	background-image: -webkit-linear-gradient(-106deg, #758ab6, #c4cde0, #758ab6);
+	background-image: -webkit-linear-gradient(196deg, #758ab6, #c4cde0, #758ab6)
+	background-image: linear-gradient(-106deg, #758ab6, #c4cde0, #758ab6);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;   
 }
