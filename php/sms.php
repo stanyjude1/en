@@ -25,8 +25,6 @@
 	$response = curl_exec($ch);
 	$err = curl_error($ch);
 	curl_close($ch);
-
-	var_dump($response);
 	
 	if ($err) {
 		echo "cURL Error #:" . $err;
