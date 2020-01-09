@@ -2,7 +2,7 @@
 
 	$request =""; //initialise the request variable
 	$param['method']= "sendMessage";
-	$param['send_to'] = "917204910178";//.$_POST['mc-email'];
+	$param['send_to'] = "91".$_POST['mc-email'];
 	$param['msg'] = "Kindly download the Edu-network link - https://edunetwork.iugale.tech/app";
 	$param['userid'] = "2000186787";
 	$param['password'] = "subten";
