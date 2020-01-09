@@ -1,28 +1,32 @@
 <?php
-	$curl = curl_init();
-	$post_fields = array();
-	$post_fields["method"] = "sendMessage";
-	$post_fields["send_to"] = "91".$_POST['mc-email'];
-	$post_fields["msg"] = "You can now download EduNetwork from here - https://play.google.com/store/apps/details?id=com.app.edunetwork&hl=en";
-	$post_fields["msg_type"] = "TEXT";
-	$post_fields["userid"] = "2000186787";
-	$post_fields["password"] = "subten";
-	$post_fields["auth_scheme"] = "PLAIN";
-	$post_fields["format"] = "JSON";
-	curl_setopt_array($curl, array(
-	CURLOPT_URL => "http://enterprise.smsgupshup.com/GatewayAPI/rest",
-	CURLOPT_RETURNTRANSFER => true,
-	CURLOPT_ENCODING => "",
-	CURLOPT_MAXREDIRS => 10,
-	CURLOPT_TIMEOUT => 30,
-	CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
-	CURLOPT_CUSTOMREQUEST => "POST",
-	CURLOPT_POSTFIELDS => $post_fields
-	));
+
+	$request =""; //initialise the request variable
+	$param['method']= "sendMessage";
+	$param['send_to'] = "91".$_POST['mc-email'];
+	$param['msg'] = "Kindly download the Edu-network link - https://edunetwork.iugale.tech/app";
+	$param['userid'] = "2000186787";
+	$param['password'] = "subten";
+	$param['v'] = "1.1";
+	$param['msg_type'] = "TEXT"; //Can be "FLASH”/"UNICODE_TEXT"/”BINARY”
+	$param['auth_scheme'] = "PLAIN";
 	
-	$response = curl_exec($curl);
-	$err = curl_error($curl);
-	curl_close($curl);
+	//Have to URL encode the values
+	foreach($param as $key=>$val) {
+		$request.= $key."=".urlencode($val);//we have to urlencode the values
+		$request.= "&";//append the ampersand (&) sign after each parameter/value pair
+	
+	}
+	$request = substr($request, 0, strlen($request)-1);//remove final (&) sign from the request
+	
+	$url =
+	"http://enterprise.smsgupshup.com/GatewayAPI/rest?".$request;
+	$ch = curl_init($url);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+	$response = curl_exec($ch);
+	$err = curl_error($ch);
+	curl_close($ch);
+
+	var_dump($response);
 	
 	if ($err) {
 		echo "cURL Error #:" . $err;
@@ -34,4 +38,5 @@
 			header('Location: http://edunetwork.iugale.tech/');
 		}
 	}
+
 ?>
