@@ -1,4 +1,4 @@
-.apps-craft-screenshort {
+.edu-network-screenshort {
      width: 250px;
      height: 505px;
      position: relative;
@@ -71,7 +71,7 @@
      transition: opacity 1s, transform 1s;
 }
 
-#apps-craft-screent-short-carousel figure img {
+#edu-network-screent-short-carousel figure img {
       max-width: 100%;
       max-height: 100%;
 }

@@ -142,16 +142,16 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 .content-margin-top {
 	margin-top: 30px;
 }
-.apps-craft-sub-scribe-section.section-padding {
+.edu-network-sub-scribe-section.section-padding {
 	padding: 230px 0 130px 0;
 }
-.apps-craft-feature-section .content-margin-top {
+.edu-network-feature-section .content-margin-top {
 	margin-top: 200px;
 }
-.apps-craft-section-heading {
+.edu-network-section-heading {
 	text-align: center;
 }
-.apps-craft-section-heading h2{
+.edu-network-section-heading h2{
 	margin: 0;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -160,12 +160,12 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 	font-size: 4.143em;
 	display: inline-block;
 }
-.apps-craft-section-heading.white h2{
+.edu-network-section-heading.white h2{
 	background-image: none;
 	-webkit-text-fill-color: #fff;
 }
 
-.apps-craft-btn.play-store-btn{
+.edu-network-btn.play-store-btn{
 	display: inline-block;
 	width: 180px;
 	height: 70px;
@@ -174,7 +174,7 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 	text-align: center;
 	line-height: 70px;
 }
-.apps-craft-btn.app-store-btn{
+.edu-network-btn.app-store-btn{
 	width: 180px;
 	height: 70px;
 	border-radius: 3px;
@@ -182,32 +182,32 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 	line-height: 70px;
 	display: inline-block;
 }
-.apps-craft-btn{
+.edu-network-btn{
 	margin: 0 60px 0 0;
 }
-.apps-craft-btn:last-child{
+.edu-network-btn:last-child{
 	margin: 0;
 }
-.apps-craft-welcome-tbl{
+.edu-network-welcome-tbl{
 	height: 100vh;
 	width: 100%;;
 	display: table;
 }
-.apps-craft-welcome-tbl-c{
+.edu-network-welcome-tbl-c{
 	display: table-cell;
 	vertical-align: middle;
 }
-.apps-craft-tbl{
+.edu-network-tbl{
 	display: table;
 	height: 100%;
 	width: 100%;
 }
-.apps-craft-tbl-c {
+.edu-network-tbl-c {
 	display: table-cell;
 	vertical-align: middle;
 }
 
-.apps-craft-btn.solid-color{
+.edu-network-btn.solid-color{
 	width: 140px;
 	height: 50px;
 	border-radius: 3px;
@@ -223,7 +223,7 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 	-webkit-transition: all .4s ease-in-out;
 	transition: all .4s ease-in-out;
 }
-.apps-craft-btn.solid-color:hover {
+.edu-network-btn.solid-color:hover {
 	background-color: #232838;
 	box-shadow: none;
 }
@@ -247,23 +247,23 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 		Apps Craft Gradient Version Color 
 ======================================================================================*/
 
-.apps-craft-menu ul li a:hover ,
-.apps-craft-welcome-content h1 span,
-.apps-craft-single-about span,
+.edu-network-menu ul li a:hover ,
+.edu-network-welcome-content h1 span,
+.edu-network-single-about span,
 .apps-carft-screen-short-content #options #previous,
 .apps-carft-screen-short-content #options #next,
-.apps-craft-pricing-body h2,
-.apps-craft-contact-form-content h2 span,
-.apps-craft-accordion .panel-title a.collapsed:before {
+.edu-network-pricing-body h2,
+.edu-network-contact-form-content h2 span,
+.edu-network-accordion .panel-title a.collapsed:before {
 	color: #3b5998;
 }
-.apps-craft-btn.app-store-btn{
+.edu-network-btn.app-store-btn{
 	background-color: #3b5998;
 	background-image: -webkit-linear-gradient( 63deg, rgb(250,50,111) 0%, rgb(246,66,94) 53%, rgb(242,81,76) 100%, rgb(242,80,77) 100%);
 	background-image: -ms-linear-gradient( 63deg, rgb(250,50,111) 0%, rgb(246,66,94) 53%, rgb(242,81,76) 100%, rgb(242,80,77) 100%);
 }
 
-.apps-craft-section-heading h2{
+.edu-network-section-heading h2{
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	background-image: -webkit-linear-gradient(-106deg, #3b5998, #293e6a, #17233c);
@@ -271,15 +271,15 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 	background-image: linear-gradient(-106deg, #3b5998, #293e6a, #17233c);
 }
 
-.apps-craft-feature-content:before {
+.edu-network-feature-content:before {
 	background-image: -webkit-linear-gradient(-106deg, #758ab6, #c4cde0, #758ab6);
 	background-image: -ms-linear-gradient(-106deg, #758ab6, #c4cde0, #758ab6);
 }
-.apps-craft-feature-content i{
+.edu-network-feature-content i{
 	background-image: -webkit-linear-gradient( 42deg, rgb(242,81,76) 0%, rgb(246,66,94) 52%, rgb(250,50,111) 100%);
 	background-image: -ms-linear-gradient( 42deg, rgb(242,81,76) 0%, rgb(246,66,94) 52%, rgb(250,50,111) 100%);
 }
-.apps-craft-video-content a i {
+.edu-network-video-content a i {
 	background-image: -webkit-linear-gradient(-106deg, #758ab6, #c4cde0, #758ab6);
 	background-image: -webkit-linear-gradient(196deg, #758ab6, #c4cde0, #758ab6)
 	background-image: linear-gradient(-106deg, #758ab6, #c4cde0, #758ab6);
@@ -292,53 +292,53 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 .fun-factorey-paralx-bg-2 {
 	background-image: url(img/fun-factory-bg-2.png);
 }
-.apps-craft-single-fun i{
+.edu-network-single-fun i{
 	color: #3b5998;
 }
-.apps-craft-testimonial-section{
+.edu-network-testimonial-section{
 	background-color: #3b5998;
 	background-image: -webkit-linear-gradient( -20deg, rgb(59,89,152) 0%, rgb(59,89,153) 0%, rgb(59,89,154) 0%, rgb(59,89,154) 1%, rgb(41,62,106) 57%, rgb(23,35,60) 100%);
 	background-image: -ms-linear-gradient( -20deg, rgb(242,81,76) 0%, rgb(242,81,76) 0%, rgb(242,81,77) 0%, rgb(242,80,77) 1%, rgb(246,65,94) 57%, rgb(250,50,111) 100%);
 }
-.apps-craft-commentor-img figcaption {
+.edu-network-commentor-img figcaption {
 	background-color: #3b5998;
 }
-#apps-craft-testimonial-thumb figure:before{
+#edu-network-testimonial-thumb figure:before{
 	background-color: rgba(242,80,77,.57);
 }
-.apps-craft-dash-border:before{
+.edu-network-dash-border:before{
 	border-left: 1px dashed #E24B48;
 }
-.apps-craft-team-member-pic:before{
+.edu-network-team-member-pic:before{
 	background-color: #fff;
 	background-image: -webkit-linear-gradient( 42deg, rgb(242,81,76) 0%, rgb(246,66,94) 52%, rgb(250,50,111) 100%);
 	background-image: -ms-linear-gradient( 42deg, rgb(242,81,76) 0%, rgb(246,66,94) 52%, rgb(250,50,111) 100%);
 }
-.apps-craft-team-img:before{
+.edu-network-team-img:before{
 	border-left: 1px dashed #F04F4C;
 }
-.apps-craft-subscribe-wraper{
+.edu-network-subscribe-wraper{
 	background-image: -webkit-linear-gradient( -20deg, rgb(59,89,152) 0%, rgb(59,89,153) 0%, rgb(59,89,154) 0%, rgb(59,89,154) 1%, rgb(41,62,106) 57%, rgb(23,35,60) 100%);
 	background-image: -ms-linear-gradient( -20deg, rgb(242,81,76) 0%, rgb(242,81,76) 0%, rgb(242,81,77) 0%, rgb(242,80,77) 1%, rgb(246,65,94) 57%, rgb(250,50,111) 100%);
 }
-.apps-craft-subscribe-form input[type="submit"]{
+.edu-network-subscribe-form input[type="submit"]{
 	background-color: #4e69a2;
 }
-.apps-craft-accordion .panel-title a:before{
+.edu-network-accordion .panel-title a:before{
 	background-color: #f34e50;
 	background-image: -webkit-linear-gradient(-131deg, #fa326f, #3b5998 99%, #f2514c);
 	background-image: -webkit-linear-gradient(221deg, #fa326f, #3b5998 99%, #f2514c);
 	background-image: linear-gradient(-131deg, #fa326f, #3b5998 99%, #f2514c);
 }
-.apps-craft-accordion .panel-title{
+.edu-network-accordion .panel-title{
 	background-color: #3b5998;
 	background-image: -webkit-linear-gradient( -20deg, rgb(59,89,152) 0%, rgb(59,89,153) 0%, rgb(59,89,154) 0%, rgb(59,89,154) 1%, rgb(41,62,106) 57%, rgb(23,35,60) 100%);
 	background-image: -ms-linear-gradient( 4deg, rgb(242,81,76) 0%, rgb(242,81,76) 0%, rgb(242,81,77) 0%, rgb(242,80,77) 1%, rgb(246,65,94) 57%, rgb(250,50,111) 100%);
 }
-.apps-craft-accordion .panel-title a.collapsed:before{
+.edu-network-accordion .panel-title a.collapsed:before{
 	background-image: none;
 }
-.apps-craft-contact-form input[type="submit"]{
+.edu-network-contact-form input[type="submit"]{
 	background-color: #f24f4e;
 	background-image: -webkit-linear-gradient( -20deg, rgb(59,89,152) 0%, rgb(59,89,153) 0%, rgb(59,89,154) 0%, rgb(59,89,154) 1%, rgb(41,62,106) 57%, rgb(23,35,60) 100%);
 	background-image: -ms-linear-gradient( 35deg, rgb(250,50,111) 0%, rgb(246,66,94) 53%, rgb(242,81,76) 100%, rgb(242,80,77) 100%);
@@ -352,99 +352,99 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 		Apps Craft Solid Color Version 
 ==================================================================================*/
 
-.apps-craft-solid-color .apps-craft-menu ul li a:hover ,
-.apps-craft-solid-color .apps-craft-main-menu-area.sticky-menu .apps-craft-menu ul li a:hover ,
-.apps-craft-solid-color .apps-craft-welcome-content h1 span,
-.apps-craft-solid-color .apps-craft-single-about span,
-.apps-craft-solid-color .apps-carft-screen-short-content #options #previous,
-.apps-craft-solid-color .apps-carft-screen-short-content #options #next,
-.apps-craft-solid-color .apps-craft-pricing-body h2,
-.apps-craft-solid-color .apps-craft-contact-form-content h2 span,
-.apps-craft-solid-color .apps-craft-accordion .panel-title a.collapsed:before,
-.apps-craft-solid-color .apps-craft-feature-content i ,
-.apps-craft-solid-color .apps-craft-single-fun i {
+.edu-network-solid-color .edu-network-menu ul li a:hover ,
+.edu-network-solid-color .edu-network-main-menu-area.sticky-menu .edu-network-menu ul li a:hover ,
+.edu-network-solid-color .edu-network-welcome-content h1 span,
+.edu-network-solid-color .edu-network-single-about span,
+.edu-network-solid-color .apps-carft-screen-short-content #options #previous,
+.edu-network-solid-color .apps-carft-screen-short-content #options #next,
+.edu-network-solid-color .edu-network-pricing-body h2,
+.edu-network-solid-color .edu-network-contact-form-content h2 span,
+.edu-network-solid-color .edu-network-accordion .panel-title a.collapsed:before,
+.edu-network-solid-color .edu-network-feature-content i ,
+.edu-network-solid-color .edu-network-single-fun i {
 	color: #1DA1F2;
 }
 
-.apps-craft-solid-color .apps-craft-section-heading h2 {
+.edu-network-solid-color .edu-network-section-heading h2 {
 	background-image: none;
 	-webkit-text-fill-color: #1DA1F2;
 }
-.apps-craft-solid-color .apps-craft-section-heading.white h2 {
+.edu-network-solid-color .edu-network-section-heading.white h2 {
 	background-image: none;
 	-webkit-text-fill-color: #FFF;
 }
-.apps-craft-solid-color .apps-craft-feature-content:before ,
-.apps-craft-solid-color .apps-craft-feature-content i {
+.edu-network-solid-color .edu-network-feature-content:before ,
+.edu-network-solid-color .edu-network-feature-content i {
 	background-image: none;
 	background-color: #1DA1F2;
 	color: #fff;
 }
-.apps-craft-solid-color .apps-craft-testimonial-section {
+.edu-network-solid-color .edu-network-testimonial-section {
 	background-color: #1DA1F2;
 	background-image: none;
 }
 
-.apps-craft-solid-color .apps-craft-dash-border:before ,
-.apps-craft-solid-color .apps-craft-team-img:before {
+.edu-network-solid-color .edu-network-dash-border:before ,
+.edu-network-solid-color .edu-network-team-img:before {
 	border-left-color: #1DA1F2;
 }
-.apps-craft-solid-color .apps-craft-video-content a i {
+.edu-network-solid-color .edu-network-video-content a i {
 	background-image: none;
 	-webkit-text-fill-color: #1DA1F2;
 }
-.apps-craft-solid-color .apps-craft-commentor-img figcaption {
+.edu-network-solid-color .edu-network-commentor-img figcaption {
 	background-color: #1da1f2;
 }
 
-.apps-craft-solid-color #apps-craft-testimonial-thumb figure:before {
+.edu-network-solid-color #edu-network-testimonial-thumb figure:before {
 	background-color: rgba(29, 161, 242, 0.57);
 }
-.apps-craft-solid-color .apps-craft-team-member-pic:before {
+.edu-network-solid-color .edu-network-team-member-pic:before {
 	background-image: none;
 	background-color: rgba(29, 161, 242, 0.8);
 }
-.apps-craft-solid-color .apps-craft-subscribe-wraper,
-.apps-craft-solid-color .apps-craft-accordion .panel-title,
-.apps-craft-solid-color .apps-craft-contact-form input[type="submit"],
-.apps-craft-solid-color .apps-craft-accordion .panel-title a:before,
-.apps-craft-solid-color .apps-craft-btn.app-store-btn {
+.edu-network-solid-color .edu-network-subscribe-wraper,
+.edu-network-solid-color .edu-network-accordion .panel-title,
+.edu-network-solid-color .edu-network-contact-form input[type="submit"],
+.edu-network-solid-color .edu-network-accordion .panel-title a:before,
+.edu-network-solid-color .edu-network-btn.app-store-btn {
 	background-image: none;
 	background-color: #1DA1F2;
 }
-.apps-craft-solid-color .apps-craft-subscribe-form input[type="submit"] {
+.edu-network-solid-color .edu-network-subscribe-form input[type="submit"] {
 	background-color: #1da1f2;
 }
-.apps-craft-solid-color .fun-factorey-paralx-bg-1 {
+.edu-network-solid-color .fun-factorey-paralx-bg-1 {
 	background-image: url(img/blue-v/blue-fun-factory-bg-1.png);
 }
-.apps-craft-solid-color .apps-craft-pricing-1 {
+.edu-network-solid-color .edu-network-pricing-1 {
 	background-image: url(img/blue-v/blue-pricing-body-bg-1.png);
 }
-.apps-craft-solid-color .apps-craft-pricing-2 {
+.edu-network-solid-color .edu-network-pricing-2 {
 	background-image: url(img/blue-v/blue-pricing-body-bg-2.png);
 }
-.apps-craft-solid-color .apps-craft-pricing-3 {
+.edu-network-solid-color .edu-network-pricing-3 {
 	background-image: url(img/blue-v/blue-pricing-body-bg-3.png);
 }
-.apps-craft-solid-color .apps-craft-footer-section  {
+.edu-network-solid-color .edu-network-footer-section  {
 	background-image: url(img/blue-v/blue-footer-bg.png);
 }
-.apps-craft-solid-color .apps-craft-btn.solid-color {
+.edu-network-solid-color .edu-network-btn.solid-color {
 	background-color: #1da1f2;
 }
-.apps-craft-solid-color .apps-craft-btn.solid-color:hover {
+.edu-network-solid-color .edu-network-btn.solid-color:hover {
 	background-color: #232838;
 }
-.apps-craft-solid-color .apps-craft-subscribe-form input[type="text"] {
+.edu-network-solid-color .edu-network-subscribe-form input[type="text"] {
 	/*box-shadow: 0 18px 32px rgba(0,0,0,.28);*/
 }
-.apps-craft-solid-color .apps-craft-side-bar-menu:before ,
-.apps-craft-solid-color .apps-craft-side-menu:before{
+.edu-network-solid-color .edu-network-side-bar-menu:before ,
+.edu-network-solid-color .edu-network-side-menu:before{
 	background-image: none;
 	background-color: #1DA1F2;
 }
-.apps-craft-solid-color .apps-craft-menu-item ul li a:hover {
+.edu-network-solid-color .edu-network-menu-item ul li a:hover {
 	color: #1DA1F2;
 }
 
@@ -452,103 +452,103 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 		Apps Craft Solid Color Version 2
 ==================================================================================*/
 
-.apps-craft-solid-color-v2 .apps-craft-menu ul li a:hover ,
-.apps-craft-solid-color-v2 .apps-craft-main-menu-area.sticky-menu .apps-craft-menu ul li a:hover ,
-.apps-craft-solid-color-v2 .apps-craft-welcome-content h1 span,
-.apps-craft-solid-color-v2 .apps-craft-single-about span,
-.apps-craft-solid-color-v2 .apps-carft-screen-short-content #options #previous,
-.apps-craft-solid-color-v2 .apps-carft-screen-short-content #options #next,
-.apps-craft-solid-color-v2 .apps-craft-pricing-body h2,
-.apps-craft-solid-color-v2 .apps-craft-contact-form-content h2 span,
-.apps-craft-solid-color-v2 .apps-craft-accordion .panel-title a.collapsed:before,
-.apps-craft-solid-color-v2 .apps-craft-feature-content i ,
-.apps-craft-solid-color-v2 .apps-craft-single-fun i {
+.edu-network-solid-color-v2 .edu-network-menu ul li a:hover ,
+.edu-network-solid-color-v2 .edu-network-main-menu-area.sticky-menu .edu-network-menu ul li a:hover ,
+.edu-network-solid-color-v2 .edu-network-welcome-content h1 span,
+.edu-network-solid-color-v2 .edu-network-single-about span,
+.edu-network-solid-color-v2 .apps-carft-screen-short-content #options #previous,
+.edu-network-solid-color-v2 .apps-carft-screen-short-content #options #next,
+.edu-network-solid-color-v2 .edu-network-pricing-body h2,
+.edu-network-solid-color-v2 .edu-network-contact-form-content h2 span,
+.edu-network-solid-color-v2 .edu-network-accordion .panel-title a.collapsed:before,
+.edu-network-solid-color-v2 .edu-network-feature-content i ,
+.edu-network-solid-color-v2 .edu-network-single-fun i {
 	color: #6D1FE9;
 }
 
-.apps-craft-solid-color-v2 .apps-craft-section-heading h2 {
+.edu-network-solid-color-v2 .edu-network-section-heading h2 {
 	background-image: none;
 	-webkit-text-fill-color: #6D1FE9;
 }
-.apps-craft-solid-color-v2 .apps-craft-section-heading.white h2 {
+.edu-network-solid-color-v2 .edu-network-section-heading.white h2 {
 	background-image: none;
 	-webkit-text-fill-color: #FFF;
 }
-.apps-craft-solid-color-v2 .apps-craft-feature-content:before ,
-.apps-craft-solid-color-v2 .apps-craft-feature-content i {
+.edu-network-solid-color-v2 .edu-network-feature-content:before ,
+.edu-network-solid-color-v2 .edu-network-feature-content i {
 	background-image: none;
 	background-color: #6D1FE9;
 	color: #fff;
 }
-.apps-craft-solid-color-v2 .apps-craft-testimonial-section {
+.edu-network-solid-color-v2 .edu-network-testimonial-section {
 	background-color: #6d1fe9;
 	background-image: none;
 }
 
-.apps-craft-solid-color-v2 .apps-craft-dash-border:before ,
-.apps-craft-solid-color-v2 .apps-craft-team-img:before {
+.edu-network-solid-color-v2 .edu-network-dash-border:before ,
+.edu-network-solid-color-v2 .edu-network-team-img:before {
 	border-left-color: #6B1EE4;
 }
-.apps-craft-solid-color-v2 .apps-craft-video-content a i {
+.edu-network-solid-color-v2 .edu-network-video-content a i {
 	background-image: none;
 	-webkit-text-fill-color: #6D1FE9;
 }
-.apps-craft-solid-color-v2 .apps-craft-commentor-img figcaption {
+.edu-network-solid-color-v2 .edu-network-commentor-img figcaption {
 	background-color: #6d1fe9;
 }
 
-.apps-craft-solid-color-v2 #apps-craft-testimonial-thumb figure:before {
+.edu-network-solid-color-v2 #edu-network-testimonial-thumb figure:before {
 	background-color: rgba(109, 31, 233, 0.57);
 }
-.apps-craft-solid-color-v2 .apps-craft-team-member-pic:before {
+.edu-network-solid-color-v2 .edu-network-team-member-pic:before {
 	background-image: none;
 	background-color: rgba(109, 31, 233, 0.8);
 }
-.apps-craft-solid-color-v2 .apps-craft-subscribe-wraper,
-.apps-craft-solid-color-v2 .apps-craft-accordion .panel-title,
-.apps-craft-solid-color-v2 .apps-craft-contact-form input[type="submit"],
-.apps-craft-solid-color-v2 .apps-craft-accordion .panel-title a:before,
-.apps-craft-solid-color-v2 .apps-craft-btn.app-store-btn {
+.edu-network-solid-color-v2 .edu-network-subscribe-wraper,
+.edu-network-solid-color-v2 .edu-network-accordion .panel-title,
+.edu-network-solid-color-v2 .edu-network-contact-form input[type="submit"],
+.edu-network-solid-color-v2 .edu-network-accordion .panel-title a:before,
+.edu-network-solid-color-v2 .edu-network-btn.app-store-btn {
 	background-image: none;
 	background-color: #6D1FE9;
 }
-.apps-craft-solid-color-v2 .apps-craft-subscribe-form input[type="submit"] {
+.edu-network-solid-color-v2 .edu-network-subscribe-form input[type="submit"] {
 	background-color: #6D1FE9;
 }
-.apps-craft-solid-color-v2 .fun-factorey-paralx-bg-1 {
+.edu-network-solid-color-v2 .fun-factorey-paralx-bg-1 {
 	background-image: url(img/solid-v-2/fun-factory-bg-1.png);
 }
-.apps-craft-solid-color-v2 .apps-craft-pricing-1 {
+.edu-network-solid-color-v2 .edu-network-pricing-1 {
 	background-image: url(img/solid-v-2/pricing-body-bg-1.png);
 }
-.apps-craft-solid-color-v2 .apps-craft-pricing-2 {
+.edu-network-solid-color-v2 .edu-network-pricing-2 {
 	background-image: url(img/solid-v-2/pricing-body-bg-2.png);
 }
-.apps-craft-solid-color-v2 .apps-craft-pricing-3 {
+.edu-network-solid-color-v2 .edu-network-pricing-3 {
 	background-image: url(img/solid-v-2/pricing-body-bg-3.png);
 }
-.apps-craft-solid-color-v2 .apps-craft-footer-section  {
+.edu-network-solid-color-v2 .edu-network-footer-section  {
 	background-image: url(img/solid-v-2/footer-bg.png);
 }
-.apps-craft-solid-color-v2 .apps-craft-btn.solid-color {
+.edu-network-solid-color-v2 .edu-network-btn.solid-color {
 	background-color: #232838;
 }
-.apps-craft-solid-color-v2 .apps-craft-btn.solid-color:hover {
+.edu-network-solid-color-v2 .edu-network-btn.solid-color:hover {
 	background-color: #EEEEEE;
 	color: #333333;
 }
-.apps-craft-solid-color-v2 .apps-craft-subscribe-form input[type="text"] {
+.edu-network-solid-color-v2 .edu-network-subscribe-form input[type="text"] {
 	/*box-shadow: 0 18px 32px rgba(0,0,0,.28);*/
 }
-.apps-craft-solid-color-v2 .apps-craft-side-bar-menu:before ,
-.apps-craft-solid-color-v2 .apps-craft-side-menu:before{
+.edu-network-solid-color-v2 .edu-network-side-bar-menu:before ,
+.edu-network-solid-color-v2 .edu-network-side-menu:before{
 	background-image: none;
 	background-color: #6D1FE9;
 }
-.apps-craft-solid-color-v2 .apps-craft-menu-item ul li a:hover {
+.edu-network-solid-color-v2 .edu-network-menu-item ul li a:hover {
 	color: #6D1FE9;
 }
-.apps-craft-solid-color-v2 .apps-craft-feature-content:hover p {
+.edu-network-solid-color-v2 .edu-network-feature-content:hover p {
 	color: #EEEEEE;
 }
 
@@ -556,103 +556,103 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 		Apps Craft Solid Color Version 3
 ==================================================================================*/
 
-.apps-craft-solid-color-v3 .apps-craft-menu ul li a:hover ,
-.apps-craft-solid-color-v3 .apps-craft-main-menu-area.sticky-menu .apps-craft-menu ul li a:hover ,
-.apps-craft-solid-color-v3 .apps-craft-welcome-content h1 span,
-.apps-craft-solid-color-v3 .apps-craft-single-about span,
-.apps-craft-solid-color-v3 .apps-carft-screen-short-content #options #previous,
-.apps-craft-solid-color-v3 .apps-carft-screen-short-content #options #next,
-.apps-craft-solid-color-v3 .apps-craft-pricing-body h2,
-.apps-craft-solid-color-v3 .apps-craft-contact-form-content h2 span,
-.apps-craft-solid-color-v3 .apps-craft-accordion .panel-title a.collapsed:before,
-.apps-craft-solid-color-v3 .apps-craft-feature-content i ,
-.apps-craft-solid-color-v3 .apps-craft-single-fun i {
+.edu-network-solid-color-v3 .edu-network-menu ul li a:hover ,
+.edu-network-solid-color-v3 .edu-network-main-menu-area.sticky-menu .edu-network-menu ul li a:hover ,
+.edu-network-solid-color-v3 .edu-network-welcome-content h1 span,
+.edu-network-solid-color-v3 .edu-network-single-about span,
+.edu-network-solid-color-v3 .apps-carft-screen-short-content #options #previous,
+.edu-network-solid-color-v3 .apps-carft-screen-short-content #options #next,
+.edu-network-solid-color-v3 .edu-network-pricing-body h2,
+.edu-network-solid-color-v3 .edu-network-contact-form-content h2 span,
+.edu-network-solid-color-v3 .edu-network-accordion .panel-title a.collapsed:before,
+.edu-network-solid-color-v3 .edu-network-feature-content i ,
+.edu-network-solid-color-v3 .edu-network-single-fun i {
 	color: #2BB4CA;
 }
 
-.apps-craft-solid-color-v3 .apps-craft-section-heading h2 {
+.edu-network-solid-color-v3 .edu-network-section-heading h2 {
 	background-image: none;
 	-webkit-text-fill-color: #2BB5CB;
 }
-.apps-craft-solid-color-v3 .apps-craft-section-heading.white h2 {
+.edu-network-solid-color-v3 .edu-network-section-heading.white h2 {
 	background-image: none;
 	-webkit-text-fill-color: #FFF;
 }
-.apps-craft-solid-color-v3 .apps-craft-feature-content:before ,
-.apps-craft-solid-color-v3 .apps-craft-feature-content i {
+.edu-network-solid-color-v3 .edu-network-feature-content:before ,
+.edu-network-solid-color-v3 .edu-network-feature-content i {
 	background-image: none;
 	background-color: #2BB5CB;
 	color: #fff;
 }
-.apps-craft-solid-color-v3 .apps-craft-testimonial-section {
+.edu-network-solid-color-v3 .edu-network-testimonial-section {
 	background-color: #2BB4CA;
 	background-image: none;
 }
 
-.apps-craft-solid-color-v3 .apps-craft-dash-border:before ,
-.apps-craft-solid-color-v3 .apps-craft-team-img:before {
+.edu-network-solid-color-v3 .edu-network-dash-border:before ,
+.edu-network-solid-color-v3 .edu-network-team-img:before {
 	border-left-color: #2BB5CB;
 }
-.apps-craft-solid-color-v3 .apps-craft-video-content a i {
+.edu-network-solid-color-v3 .edu-network-video-content a i {
 	background-image: none;
 	-webkit-text-fill-color: #2BB5CB;
 }
-.apps-craft-solid-color-v3 .apps-craft-commentor-img figcaption {
+.edu-network-solid-color-v3 .edu-network-commentor-img figcaption {
 	background-color: #1DA1F2;
 }
 
-.apps-craft-solid-color-v3 #apps-craft-testimonial-thumb figure:before {
+.edu-network-solid-color-v3 #edu-network-testimonial-thumb figure:before {
 	background-color: rgba(29, 161, 242, 0.57);
 }
-.apps-craft-solid-color-v3 .apps-craft-team-member-pic:before {
+.edu-network-solid-color-v3 .edu-network-team-member-pic:before {
 	background-image: none;
 	background-color: rgba(43, 181, 203, 0.8);
 }
-.apps-craft-solid-color-v3 .apps-craft-subscribe-wraper,
-.apps-craft-solid-color-v3 .apps-craft-accordion .panel-title,
-.apps-craft-solid-color-v3 .apps-craft-contact-form input[type="submit"],
-.apps-craft-solid-color-v3 .apps-craft-accordion .panel-title a:before,
-.apps-craft-solid-color-v3 .apps-craft-btn.app-store-btn {
+.edu-network-solid-color-v3 .edu-network-subscribe-wraper,
+.edu-network-solid-color-v3 .edu-network-accordion .panel-title,
+.edu-network-solid-color-v3 .edu-network-contact-form input[type="submit"],
+.edu-network-solid-color-v3 .edu-network-accordion .panel-title a:before,
+.edu-network-solid-color-v3 .edu-network-btn.app-store-btn {
 	background-image: none;
 	background-color: #2BB4CA;
 }
-.apps-craft-solid-color-v3 .apps-craft-subscribe-form input[type="submit"] {
+.edu-network-solid-color-v3 .edu-network-subscribe-form input[type="submit"] {
 	background-color: #2BB5CB;
 }
-.apps-craft-solid-color-v3 .fun-factorey-paralx-bg-1 {
+.edu-network-solid-color-v3 .fun-factorey-paralx-bg-1 {
 	background-image: url(img/solid-v-3/fun-factory-bg-1.png);
 }
-.apps-craft-solid-color-v3 .apps-craft-pricing-1 {
+.edu-network-solid-color-v3 .edu-network-pricing-1 {
 	background-image: url(img/solid-v-3/pricing-body-bg-1.png);
 }
-.apps-craft-solid-color-v3 .apps-craft-pricing-2 {
+.edu-network-solid-color-v3 .edu-network-pricing-2 {
 	background-image: url(img/solid-v-3/pricing-body-bg-2.png);
 }
-.apps-craft-solid-color-v3 .apps-craft-pricing-3 {
+.edu-network-solid-color-v3 .edu-network-pricing-3 {
 	background-image: url(img/solid-v-3/pricing-body-bg-3.png);
 }
-.apps-craft-solid-color-v3 .apps-craft-footer-section  {
+.edu-network-solid-color-v3 .edu-network-footer-section  {
 	background-image: url(img/solid-v-3/footer-bg.png);
 }
-.apps-craft-solid-color-v3 .apps-craft-btn.solid-color {
+.edu-network-solid-color-v3 .edu-network-btn.solid-color {
 	background-color: #232838;
 }
-.apps-craft-solid-color-v3 .apps-craft-btn.solid-color:hover {
+.edu-network-solid-color-v3 .edu-network-btn.solid-color:hover {
 	background-color: #EEEEEE;
 	color: #333333;
 }
-.apps-craft-solid-color-v3 .apps-craft-subscribe-form input[type="text"] {
+.edu-network-solid-color-v3 .edu-network-subscribe-form input[type="text"] {
 	/*box-shadow: 0 18px 32px rgba(0,0,0,.28);*/
 }
-.apps-craft-solid-color-v3 .apps-craft-side-bar-menu:before ,
-.apps-craft-solid-color-v3 .apps-craft-side-menu:before{
+.edu-network-solid-color-v3 .edu-network-side-bar-menu:before ,
+.edu-network-solid-color-v3 .edu-network-side-menu:before{
 	background-image: none;
 	background-color: #2BB4CA;
 }
-.apps-craft-solid-color-v3 .apps-craft-menu-item ul li a:hover {
+.edu-network-solid-color-v3 .edu-network-menu-item ul li a:hover {
 	color: #2BB4CA;
 }
-.apps-craft-solid-color-v3 .apps-craft-feature-content:hover p {
+.edu-network-solid-color-v3 .edu-network-feature-content:hover p {
 	color: #EEEEEE;
 }
 
@@ -661,126 +661,126 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 		Apps Craft Version 10
 ==================================================================================*/
 
-.apps-craft-v10 .apps-craft-menu ul li a:hover ,
-.apps-craft-v10 .apps-craft-main-menu-area.sticky-menu .apps-craft-menu ul li a:hover ,
-.apps-craft-v10 .apps-craft-welcome-content h1 span,
-.apps-craft-v10 .apps-craft-single-about span,
-.apps-craft-v10 .apps-carft-screen-short-content #options #previous,
-.apps-craft-v10 .apps-carft-screen-short-content #options #next,
-.apps-craft-v10 .apps-craft-pricing-body h2,
-.apps-craft-v10 .apps-craft-contact-form-content h2 span,
-.apps-craft-v10 .apps-craft-accordion .panel-title a.collapsed:before,
-.apps-craft-v10 .apps-craft-feature-content i ,
-.apps-craft-v10 .apps-craft-single-fun i {
+.edu-network-v10 .edu-network-menu ul li a:hover ,
+.edu-network-v10 .edu-network-main-menu-area.sticky-menu .edu-network-menu ul li a:hover ,
+.edu-network-v10 .edu-network-welcome-content h1 span,
+.edu-network-v10 .edu-network-single-about span,
+.edu-network-v10 .apps-carft-screen-short-content #options #previous,
+.edu-network-v10 .apps-carft-screen-short-content #options #next,
+.edu-network-v10 .edu-network-pricing-body h2,
+.edu-network-v10 .edu-network-contact-form-content h2 span,
+.edu-network-v10 .edu-network-accordion .panel-title a.collapsed:before,
+.edu-network-v10 .edu-network-feature-content i ,
+.edu-network-v10 .edu-network-single-fun i {
 	color: #01C9FC;
 }
 
-.apps-craft-v10 .apps-craft-section-heading h2 {
+.edu-network-v10 .edu-network-section-heading h2 {
 	background-image: none;
 	-webkit-text-fill-color: #333333;
 }
-.apps-craft-v10 .apps-craft-section-heading.white h2 {
+.edu-network-v10 .edu-network-section-heading.white h2 {
 	background-image: none;
 	-webkit-text-fill-color: #FFF;
 }
-.apps-craft-v10 .apps-craft-feature-content:before ,
-.apps-craft-v10 .apps-craft-feature-content i {
+.edu-network-v10 .edu-network-feature-content:before ,
+.edu-network-v10 .edu-network-feature-content i {
 	background-image: -webkit-linear-gradient( 42deg, rgb(123,237,147) 0%, rgb(62,219,200) 52%, rgb(1,201,252) 100%);
 	background-image: -ms-linear-gradient( 42deg, rgb(123,237,147) 0%, rgb(62,219,200) 52%, rgb(1,201,252) 100%);
 	color: #fff;
 	background-color: transparent;
 }
-.apps-craft-v10 .apps-craft-testimonial-section {
+.edu-network-v10 .edu-network-testimonial-section {
 	background-color: #17CFE8;
 	background-image: -webkit-linear-gradient( -136deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 	background-image: -ms-linear-gradient( -136deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 }
-.apps-craft-v10 .apps-craft-commentor-bio h3 span {
+.edu-network-v10 .edu-network-commentor-bio h3 span {
 	color: #333333;
 }
 
-.apps-craft-v10 .apps-craft-dash-border:before ,
-.apps-craft-v10 .apps-craft-team-img:before {
+.edu-network-v10 .edu-network-dash-border:before ,
+.edu-network-v10 .edu-network-team-img:before {
 	border-left-color: #4E75D4;
 }
-.apps-craft-v10 .apps-craft-video-content a i {
+.edu-network-v10 .edu-network-video-content a i {
 	background-image: -webkit-linear-gradient( 25deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 	background-image: -ms-linear-gradient( 25deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 	-webkit-text-fill-color: transparent;
 }
 
-.apps-craft-v10 .apps-craft-commentor-img figcaption {
+.edu-network-v10 .edu-network-commentor-img figcaption {
 	background-color: #7BED93;
 }
 
-.apps-craft-v10 #apps-craft-testimonial-thumb figure:before {
+.edu-network-v10 #edu-network-testimonial-thumb figure:before {
 	background-color: rgba(123, 237, 147, 0.57);
 }
-.apps-craft-v10 .apps-craft-team-member-pic:before {
+.edu-network-v10 .edu-network-team-member-pic:before {
 	background-image: -webkit-linear-gradient( 25deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 	background-image: -ms-linear-gradient( 25deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 }
-.apps-craft-v10 .apps-craft-subscribe-wraper,
-.apps-craft-v10 .apps-craft-accordion .panel-title,
-.apps-craft-v10 .apps-craft-contact-form input[type="submit"],
-.apps-craft-v10 .apps-craft-accordion .panel-title a:before,
-.apps-craft-v10 .apps-craft-btn.app-store-btn {
+.edu-network-v10 .edu-network-subscribe-wraper,
+.edu-network-v10 .edu-network-accordion .panel-title,
+.edu-network-v10 .edu-network-contact-form input[type="submit"],
+.edu-network-v10 .edu-network-accordion .panel-title a:before,
+.edu-network-v10 .edu-network-btn.app-store-btn {
 	background-image: -webkit-linear-gradient( 0deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 	background-image: -ms-linear-gradient( 0deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 	background-color: transparent;
 }
-.apps-craft-v10 .apps-craft-subscribe-form input[type="submit"] {
+.edu-network-v10 .edu-network-subscribe-form input[type="submit"] {
 	background-color: #01C9FC;
 }
-.apps-craft-v10 .fun-factorey-paralx-bg-1 {
+.edu-network-v10 .fun-factorey-paralx-bg-1 {
 	background-image: url(img/version-10/fun-factory-bg-1.png);
 }
-.apps-craft-v10 .apps-craft-pricing-1 {
+.edu-network-v10 .edu-network-pricing-1 {
 	background-image: url(img/version-10/pricing-body-bg-1.png);
 }
-.apps-craft-v10 .apps-craft-pricing-2 {
+.edu-network-v10 .edu-network-pricing-2 {
 	background-image: url(img/version-10/pricing-body-bg-2.png);
 }
-.apps-craft-v10 .apps-craft-pricing-3 {
+.edu-network-v10 .edu-network-pricing-3 {
 	background-image: url(img/version-10/pricing-body-bg-3.png);
 }
-.apps-craft-v10 .apps-craft-footer-section  {
+.edu-network-v10 .edu-network-footer-section  {
 	background-image: url(img/version-10/footer-bg.png);
 }
-.apps-craft-v10 .apps-craft-btn.solid-color {
+.edu-network-v10 .edu-network-btn.solid-color {
 	background-color: #232838;
 }
-.apps-craft-v10 .apps-craft-btn.solid-color:hover {
+.edu-network-v10 .edu-network-btn.solid-color:hover {
 	background-color: #EEEEEE;
 	color: #333333;
 }
-.apps-craft-v10 .apps-craft-subscribe-form input[type="text"] {
+.edu-network-v10 .edu-network-subscribe-form input[type="text"] {
 	/*box-shadow: 0 18px 32px rgba(0,0,0,.28);*/
 }
-.apps-craft-v10 .apps-craft-feature-content:hover p {
+.edu-network-v10 .edu-network-feature-content:hover p {
 	color: #FFFFFF;
 }
-.apps-craft-v10 .apps-craft-accordion .panel-title a:before {
+.edu-network-v10 .edu-network-accordion .panel-title a:before {
 	background-color: #F4F4F4;
 	background-image: none;
 	color: #01C9FC;
 }
-.apps-craft-v10 .apps-craft-accordion .panel-title.click a:before {
+.edu-network-v10 .edu-network-accordion .panel-title.click a:before {
 	background-image: -webkit-linear-gradient( 25deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 	background-image: -ms-linear-gradient( 25deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 	color: #FFFFFF;
 }
-.apps-craft-v10 .apps-craft-accordion .panel-title.click {
+.edu-network-v10 .edu-network-accordion .panel-title.click {
 	background-color: #FFFFFF;
 	background-image: none;
 }
-.apps-craft-v10 .apps-craft-side-bar-menu:before ,
-.apps-craft-v10 .apps-craft-side-menu:before{
+.edu-network-v10 .edu-network-side-bar-menu:before ,
+.edu-network-v10 .edu-network-side-menu:before{
 	background-image: -webkit-linear-gradient( 0deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 	background-image: -ms-linear-gradient( 0deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 	background-color: transparent;
 }
-.apps-craft-v10 .apps-craft-menu-item ul li a:hover {
+.edu-network-v10 .edu-network-menu-item ul li a:hover {
 	color: #01C9FC;
 }
 
@@ -788,131 +788,131 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 		Apps Craft Version 11
 ==================================================================================*/
 
-.apps-craft-v11 .apps-craft-menu ul li a:hover ,
-.apps-craft-v11 .apps-craft-main-menu-area.sticky-menu .apps-craft-menu ul li a:hover ,
-.apps-craft-v11 .apps-craft-welcome-content h1 span,
-.apps-craft-v11 .apps-craft-single-about span,
-.apps-craft-v11 .apps-carft-screen-short-content #options #previous,
-.apps-craft-v11 .apps-carft-screen-short-content #options #next,
-.apps-craft-v11 .apps-craft-pricing-body h2,
-.apps-craft-v11 .apps-craft-contact-form-content h2 span,
-.apps-craft-v11 .apps-craft-accordion .panel-title a.collapsed:before,
-.apps-craft-v11 .apps-craft-feature-content i ,
-.apps-craft-v11 .apps-craft-single-fun i {
+.edu-network-v11 .edu-network-menu ul li a:hover ,
+.edu-network-v11 .edu-network-main-menu-area.sticky-menu .edu-network-menu ul li a:hover ,
+.edu-network-v11 .edu-network-welcome-content h1 span,
+.edu-network-v11 .edu-network-single-about span,
+.edu-network-v11 .apps-carft-screen-short-content #options #previous,
+.edu-network-v11 .apps-carft-screen-short-content #options #next,
+.edu-network-v11 .edu-network-pricing-body h2,
+.edu-network-v11 .edu-network-contact-form-content h2 span,
+.edu-network-v11 .edu-network-accordion .panel-title a.collapsed:before,
+.edu-network-v11 .edu-network-feature-content i ,
+.edu-network-v11 .edu-network-single-fun i {
 	color: #537DE4;
 }
 
-.apps-craft-v11 .apps-craft-section-heading h2 {
+.edu-network-v11 .edu-network-section-heading h2 {
 	background-image: none;
 	-webkit-text-fill-color: #537DE4;
 }
-.apps-craft-v11 .apps-craft-section-heading.white h2 {
+.edu-network-v11 .edu-network-section-heading.white h2 {
 	background-image: none;
 	-webkit-text-fill-color: #FFF;
 }
-.apps-craft-v11 .apps-craft-feature-content:before ,
-.apps-craft-v11 .apps-craft-feature-content i {
+.edu-network-v11 .edu-network-feature-content:before ,
+.edu-network-v11 .edu-network-feature-content i {
 	background-image: -webkit-linear-gradient( 0deg, rgb(85,127,235) 0%, rgb(42,237,255) 100%);
 	background-image: -ms-linear-gradient( 0deg, rgb(85,127,235) 0%, rgb(42,237,255) 100%);
 	color: #fff;
 	background-color: transparent;
 }
-.apps-craft-v11 .apps-craft-feature-content i {
+.edu-network-v11 .edu-network-feature-content i {
 	background-image: -webkit-linear-gradient( 42deg, rgb(43,227,247) 0%, rgb(72,183,242) 52%, rgb(101,139,236) 100%);
 	background-image: -ms-linear-gradient( 42deg, rgb(43,227,247) 0%, rgb(72,183,242) 52%, rgb(101,139,236) 100%);
 }
 
-.apps-craft-v11 .apps-craft-testimonial-section {
+.edu-network-v11 .edu-network-testimonial-section {
 	background-color: #31D2F4;
 	background-image: -webkit-linear-gradient( -153deg, rgb(101,139,236) 0%, rgb(83,125,228) 0%, rgb(63,176,238) 60%, rgb(43,227,247) 100%);
 	background-image: -ms-linear-gradient( -153deg, rgb(101,139,236) 0%, rgb(83,125,228) 0%, rgb(63,176,238) 60%, rgb(43,227,247) 100%);
 }
 
 
-.apps-craft-v11 .apps-craft-dash-border:before ,
-.apps-craft-v11 .apps-craft-team-img:before {
+.edu-network-v11 .edu-network-dash-border:before ,
+.edu-network-v11 .edu-network-team-img:before {
 	border-left-color: #4466BA;
 }
-.apps-craft-v11 .apps-craft-video-content a i {
+.edu-network-v11 .edu-network-video-content a i {
 	background-image: -webkit-linear-gradient( 42deg, rgb(43,227,247) 0%, rgb(72,183,242) 52%, rgb(101,139,236) 100%);
 	background-image: -ms-linear-gradient( 42deg, rgb(43,227,247) 0%, rgb(72,183,242) 52%, rgb(101,139,236) 100%);
 	-webkit-text-fill-color: transparent;
 }
 
-.apps-craft-v11 .apps-craft-commentor-img figcaption {
+.edu-network-v11 .edu-network-commentor-img figcaption {
 	background-color: #537DE4;
 }
 
-.apps-craft-v11 #apps-craft-testimonial-thumb figure:before {
+.edu-network-v11 #edu-network-testimonial-thumb figure:before {
 	background-color: rgba(83, 125, 228, 0.57);
 }
-.apps-craft-v11 .apps-craft-team-member-pic:before {
+.edu-network-v11 .edu-network-team-member-pic:before {
 	background-image: -webkit-linear-gradient( 149deg, rgb(85,127,235) 0%, rgb(42,237,255) 100%);
 	background-image: -ms-linear-gradient( 149deg, rgb(85,127,235) 0%, rgb(42,237,255) 100%);
 }
 
-.apps-craft-v11 .apps-craft-subscribe-wraper,
-.apps-craft-v11 .apps-craft-accordion .panel-title,
-.apps-craft-v11 .apps-craft-contact-form input[type="submit"],
-.apps-craft-v11 .apps-craft-accordion .panel-title a:before,
-.apps-craft-v11 .apps-craft-btn.app-store-btn {
+.edu-network-v11 .edu-network-subscribe-wraper,
+.edu-network-v11 .edu-network-accordion .panel-title,
+.edu-network-v11 .edu-network-contact-form input[type="submit"],
+.edu-network-v11 .edu-network-accordion .panel-title a:before,
+.edu-network-v11 .edu-network-btn.app-store-btn {
 	background-image: -webkit-linear-gradient( 0deg, rgb(85,127,235) 0%, rgb(42,237,255) 100%);
 	background-image: -ms-linear-gradient( 0deg, rgb(85,127,235) 0%, rgb(42,237,255) 100%);
 	background-color: transparent;
 }
 
-.apps-craft-v11 .apps-craft-subscribe-form input[type="submit"] {
+.edu-network-v11 .edu-network-subscribe-form input[type="submit"] {
 	background-color: #537DE4;
 }
-.apps-craft-v11 .fun-factorey-paralx-bg-1 {
+.edu-network-v11 .fun-factorey-paralx-bg-1 {
 	background-image: url(img/version-11/fun-factory-bg-1.png);
 }
-.apps-craft-v11 .apps-craft-pricing-1 {
+.edu-network-v11 .edu-network-pricing-1 {
 	background-image: url(img/version-11/pricing-body-bg-1.png);
 }
-.apps-craft-v11 .apps-craft-pricing-2 {
+.edu-network-v11 .edu-network-pricing-2 {
 	background-image: url(img/version-11/pricing-body-bg-2.png);
 }
-.apps-craft-v11 .apps-craft-pricing-3 {
+.edu-network-v11 .edu-network-pricing-3 {
 	background-image: url(img/version-11/pricing-body-bg-3.png);
 }
-.apps-craft-v11 .apps-craft-footer-section  {
+.edu-network-v11 .edu-network-footer-section  {
 	background-image: url(img/version-11/footer-bg.png);
 }
-.apps-craft-v11 .apps-craft-btn.solid-color {
+.edu-network-v11 .edu-network-btn.solid-color {
 	background-color: #232838;
 }
-.apps-craft-v11 .apps-craft-btn.solid-color:hover {
+.edu-network-v11 .edu-network-btn.solid-color:hover {
 	background-color: #EEEEEE;
 	color: #333333;
 }
-.apps-craft-v11 .apps-craft-subscribe-form input[type="text"] {
+.edu-network-v11 .edu-network-subscribe-form input[type="text"] {
 	/*box-shadow: 0 18px 32px rgba(0,0,0,.28);*/
 }
-.apps-craft-v11 .apps-craft-feature-content:hover p {
+.edu-network-v11 .edu-network-feature-content:hover p {
 	color: #FFFFFF;
 }
-.apps-craft-v11 .apps-craft-accordion .panel-title a:before {
+.edu-network-v11 .edu-network-accordion .panel-title a:before {
 	background-color: #F4F4F4;
 	background-image: none;
 	color: #01C9FC;
 }
-.apps-craft-v11 .apps-craft-accordion .panel-title.click a:before {
+.edu-network-v11 .edu-network-accordion .panel-title.click a:before {
 	background-image: -webkit-linear-gradient( 0deg, rgb(85,127,235) 0%, rgb(42,237,255) 100%);
 	background-image: -ms-linear-gradient( 0deg, rgb(85,127,235) 0%, rgb(42,237,255) 100%);
 	color: #FFFFFF;
 }
-.apps-craft-v11 .apps-craft-accordion .panel-title.click {
+.edu-network-v11 .edu-network-accordion .panel-title.click {
 	background-color: #FFFFFF;
 	background-image: none;
 }
-.apps-craft-v11 .apps-craft-side-bar-menu:before ,
-.apps-craft-v11 .apps-craft-side-menu:before{
+.edu-network-v11 .edu-network-side-bar-menu:before ,
+.edu-network-v11 .edu-network-side-menu:before{
 	background-image: -webkit-linear-gradient( 0deg, rgb(85,127,235) 0%, rgb(42,237,255) 100%);
 	background-image: -ms-linear-gradient( 0deg, rgb(85,127,235) 0%, rgb(42,237,255) 100%);
 	background-color: transparent;
 }
-.apps-craft-v11 .apps-craft-menu-item ul li a:hover {
+.edu-network-v11 .edu-network-menu-item ul li a:hover {
 	color: #5079DB;
 }
 
@@ -921,131 +921,131 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 		Apps Craft Version 12
 ==================================================================================*/
 
-.apps-craft-v12 .apps-craft-menu ul li a:hover ,
-.apps-craft-v12 .apps-craft-main-menu-area.sticky-menu .apps-craft-menu ul li a:hover ,
-.apps-craft-v12 .apps-craft-welcome-content h1 span,
-.apps-craft-v12 .apps-craft-single-about span,
-.apps-craft-v12 .apps-carft-screen-short-content #options #previous,
-.apps-craft-v12 .apps-carft-screen-short-content #options #next,
-.apps-craft-v12 .apps-craft-pricing-body h2,
-.apps-craft-v12 .apps-craft-contact-form-content h2 span,
-.apps-craft-v12 .apps-craft-accordion .panel-title a.collapsed:before,
-.apps-craft-v12 .apps-craft-feature-content i ,
-.apps-craft-v12 .apps-craft-single-fun i {
+.edu-network-v12 .edu-network-menu ul li a:hover ,
+.edu-network-v12 .edu-network-main-menu-area.sticky-menu .edu-network-menu ul li a:hover ,
+.edu-network-v12 .edu-network-welcome-content h1 span,
+.edu-network-v12 .edu-network-single-about span,
+.edu-network-v12 .apps-carft-screen-short-content #options #previous,
+.edu-network-v12 .apps-carft-screen-short-content #options #next,
+.edu-network-v12 .edu-network-pricing-body h2,
+.edu-network-v12 .edu-network-contact-form-content h2 span,
+.edu-network-v12 .edu-network-accordion .panel-title a.collapsed:before,
+.edu-network-v12 .edu-network-feature-content i ,
+.edu-network-v12 .edu-network-single-fun i {
 	color: #FDBE39;
 }
 
-.apps-craft-v12 .apps-craft-section-heading h2 {
+.edu-network-v12 .edu-network-section-heading h2 {
 	background-image: none;
 	-webkit-text-fill-color: #333333;
 }
-.apps-craft-v12 .apps-craft-section-heading.white h2 {
+.edu-network-v12 .edu-network-section-heading.white h2 {
 	background-image: none;
 	-webkit-text-fill-color: #FFF;
 }
-.apps-craft-v12 .apps-craft-feature-content:before ,
-.apps-craft-v12 .apps-craft-feature-content i {
+.edu-network-v12 .edu-network-feature-content:before ,
+.edu-network-v12 .edu-network-feature-content i {
 	background-image: -webkit-linear-gradient( 25deg, rgb(239,61,136) 0%, rgb(246,126,97) 61%, rgb(253,190,57) 100%);
 	background-image: -ms-linear-gradient( 25deg, rgb(239,61,136) 0%, rgb(246,126,97) 61%, rgb(253,190,57) 100%);
 	color: #fff;
 	background-color: transparent;
 }
 
-.apps-craft-v12 .apps-craft-testimonial-section {
+.edu-network-v12 .edu-network-testimonial-section {
 	background-color: #31D2F4;
 	background-image: -webkit-linear-gradient( 25deg, rgb(239,61,136) 0%, rgb(246,126,97) 61%, rgb(253,190,57) 100%);
 	background-image: -ms-linear-gradient( 25deg, rgb(239,61,136) 0%, rgb(246,126,97) 61%, rgb(253,190,57) 100%);
 }
 
 
-.apps-craft-v12 .apps-craft-dash-border:before ,
-.apps-craft-v12 .apps-craft-team-img:before {
+.edu-network-v12 .edu-network-dash-border:before ,
+.edu-network-v12 .edu-network-team-img:before {
 	border-left-color: #FABC38;
 }
-.apps-craft-v12 .apps-craft-video-content a i {
+.edu-network-v12 .edu-network-video-content a i {
 	background-image: -webkit-linear-gradient( 42deg, rgb(239,61,136) 0%, rgb(253,190,57) 100%);
 	background-image: -ms-linear-gradient( 42deg, rgb(239,61,136) 0%, rgb(253,190,57) 100%);
 	-webkit-text-fill-color: transparent;
 }
 
-.apps-craft-v12 .apps-craft-commentor-img figcaption {
+.edu-network-v12 .edu-network-commentor-img figcaption {
 	background-color: #EF3D88;
 }
 
-.apps-craft-v12 #apps-craft-testimonial-thumb figure:before {
+.edu-network-v12 #edu-network-testimonial-thumb figure:before {
 	background-color: rgba(253, 190, 57, 0.58);
 }
-.apps-craft-v12 .apps-craft-commentor-bio h3 span {
+.edu-network-v12 .edu-network-commentor-bio h3 span {
 	color: #333333;
 }
-.apps-craft-v12 .apps-craft-team-member-pic:before {
+.edu-network-v12 .edu-network-team-member-pic:before {
 	background-image: -webkit-linear-gradient( 25deg, rgb(239,61,136) 0%, rgb(246,126,97) 61%, rgb(253,190,57) 100%);
 	background-image: -ms-linear-gradient( 25deg, rgb(239,61,136) 0%, rgb(246,126,97) 61%, rgb(253,190,57) 100%);
 }
 
 
-.apps-craft-v12 .apps-craft-subscribe-wraper,
-.apps-craft-v12 .apps-craft-accordion .panel-title,
-.apps-craft-v12 .apps-craft-contact-form input[type="submit"],
-.apps-craft-v12 .apps-craft-accordion .panel-title a:before,
-.apps-craft-v12 .apps-craft-btn.app-store-btn {
+.edu-network-v12 .edu-network-subscribe-wraper,
+.edu-network-v12 .edu-network-accordion .panel-title,
+.edu-network-v12 .edu-network-contact-form input[type="submit"],
+.edu-network-v12 .edu-network-accordion .panel-title a:before,
+.edu-network-v12 .edu-network-btn.app-store-btn {
 	background-image: -webkit-linear-gradient( 35deg, rgb(239,61,136) 0%, rgb(253,190,57) 100%);
 	background-image: -ms-linear-gradient( 35deg, rgb(239,61,136) 0%, rgb(253,190,57) 100%);
 	background-color: transparent;
 }
 
-.apps-craft-v12 .apps-craft-subscribe-form input[type="submit"] {
+.edu-network-v12 .edu-network-subscribe-form input[type="submit"] {
 	background-color: #FDBE39;
 }
-.apps-craft-v12 .fun-factorey-paralx-bg-1 {
+.edu-network-v12 .fun-factorey-paralx-bg-1 {
 	background-image: url(img/version-12/fun-factory-bg-1.png);
 }
-.apps-craft-v12 .apps-craft-pricing-1 {
+.edu-network-v12 .edu-network-pricing-1 {
 	background-image: url(img/version-12/pricing-body-bg-1.png);
 }
-.apps-craft-v12 .apps-craft-pricing-2 {
+.edu-network-v12 .edu-network-pricing-2 {
 	background-image: url(img/version-12/pricing-body-bg-2.png);
 }
-.apps-craft-v12 .apps-craft-pricing-3 {
+.edu-network-v12 .edu-network-pricing-3 {
 	background-image: url(img/version-12/pricing-body-bg-3.png);
 }
-.apps-craft-v12 .apps-craft-footer-section  {
+.edu-network-v12 .edu-network-footer-section  {
 	background-image: url(img/version-12/footer-bg.png);
 }
-.apps-craft-v12 .apps-craft-btn.solid-color {
+.edu-network-v12 .edu-network-btn.solid-color {
 	background-color: #232838;
 }
-.apps-craft-v12 .apps-craft-btn.solid-color:hover {
+.edu-network-v12 .edu-network-btn.solid-color:hover {
 	background-color: #EEEEEE;
 	color: #333333;
 }
-.apps-craft-v12 .apps-craft-subscribe-form input[type="text"] {
+.edu-network-v12 .edu-network-subscribe-form input[type="text"] {
 	/*box-shadow: 0 18px 32px rgba(0,0,0,.28);*/
 }
-.apps-craft-v12 .apps-craft-feature-content:hover p {
+.edu-network-v12 .edu-network-feature-content:hover p {
 	color: #FFFFFF;
 }
-.apps-craft-v12 .apps-craft-accordion .panel-title a:before {
+.edu-network-v12 .edu-network-accordion .panel-title a:before {
 	background-color: #F4F4F4;
 	background-image: none;
 	color: #01C9FC;
 }
-.apps-craft-v12 .apps-craft-accordion .panel-title.click a:before {
+.edu-network-v12 .edu-network-accordion .panel-title.click a:before {
 	background-image: -webkit-linear-gradient( 25deg, rgb(239,61,136) 0%, rgb(246,126,97) 61%, rgb(253,190,57) 100%);
 	background-image: -ms-linear-gradient( 25deg, rgb(239,61,136) 0%, rgb(246,126,97) 61%, rgb(253,190,57) 100%);
 	color: #FFFFFF;
 }
-.apps-craft-v12 .apps-craft-accordion .panel-title.click {
+.edu-network-v12 .edu-network-accordion .panel-title.click {
 	background-color: #FFFFFF;
 	background-image: none;
 }
-.apps-craft-v12 .apps-craft-side-bar-menu:before ,
-.apps-craft-v12 .apps-craft-side-menu:before{
+.edu-network-v12 .edu-network-side-bar-menu:before ,
+.edu-network-v12 .edu-network-side-menu:before{
 	background-image: -webkit-linear-gradient( 35deg, rgb(239,61,136) 0%, rgb(253,190,57) 100%);
 	background-image: -ms-linear-gradient( 35deg, rgb(239,61,136) 0%, rgb(253,190,57) 100%);
 	background-color: transparent;
 }
-.apps-craft-v12 .apps-craft-menu-item ul li a:hover {
+.edu-network-v12 .edu-network-menu-item ul li a:hover {
 	color: #FDBE39;
 }
 
@@ -1053,140 +1053,140 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 		Apps Craft Version 13
 ==================================================================================*/
 
-.apps-craft-v13 .apps-craft-menu ul li a:hover ,
-.apps-craft-v13 .apps-craft-main-menu-area.sticky-menu .apps-craft-menu ul li a:hover ,
-.apps-craft-v13 .apps-craft-welcome-content h1 span,
-.apps-craft-v13 .apps-craft-single-about span,
-.apps-craft-v13 .apps-carft-screen-short-content #options #previous,
-.apps-craft-v13 .apps-carft-screen-short-content #options #next,
-.apps-craft-v13 .apps-craft-pricing-body h2,
-.apps-craft-v13 .apps-craft-contact-form-content h2 span,
-.apps-craft-v13 .apps-craft-accordion .panel-title a.collapsed:before,
-.apps-craft-v13 .apps-craft-feature-content i ,
-.apps-craft-v13 .apps-craft-single-fun i {
+.edu-network-v13 .edu-network-menu ul li a:hover ,
+.edu-network-v13 .edu-network-main-menu-area.sticky-menu .edu-network-menu ul li a:hover ,
+.edu-network-v13 .edu-network-welcome-content h1 span,
+.edu-network-v13 .edu-network-single-about span,
+.edu-network-v13 .apps-carft-screen-short-content #options #previous,
+.edu-network-v13 .apps-carft-screen-short-content #options #next,
+.edu-network-v13 .edu-network-pricing-body h2,
+.edu-network-v13 .edu-network-contact-form-content h2 span,
+.edu-network-v13 .edu-network-accordion .panel-title a.collapsed:before,
+.edu-network-v13 .edu-network-feature-content i ,
+.edu-network-v13 .edu-network-single-fun i {
 	color: #01C9FC;
 }
-.apps-craft-v13 .apps-craft-welcome-content h1 span {
+.edu-network-v13 .edu-network-welcome-content h1 span {
 	color: #ffffff;
 }
 
-.apps-craft-v13 .apps-craft-section-heading h2 {
+.edu-network-v13 .edu-network-section-heading h2 {
 	background-image: none;
 	-webkit-text-fill-color: #333333;
 }
-.apps-craft-v13 .apps-craft-section-heading.white h2 {
+.edu-network-v13 .edu-network-section-heading.white h2 {
 	background-image: none;
 	-webkit-text-fill-color: #FFF;
 }
-.apps-craft-v13 .apps-craft-feature-content:before ,
-.apps-craft-v13 .apps-craft-feature-content i {
+.edu-network-v13 .edu-network-feature-content:before ,
+.edu-network-v13 .edu-network-feature-content i {
 	background-image: -webkit-linear-gradient( 42deg, rgb(123,237,147) 0%, rgb(62,219,200) 52%, rgb(1,201,252) 100%);
 	background-image: -ms-linear-gradient( 42deg, rgb(123,237,147) 0%, rgb(62,219,200) 52%, rgb(1,201,252) 100%);
 	color: #fff;
 	background-color: transparent;
 }
-.apps-craft-v13 .apps-craft-feature-content:before {
+.edu-network-v13 .edu-network-feature-content:before {
 	background-image: -webkit-linear-gradient( 25deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 	background-image: -ms-linear-gradient( 25deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 }
-.apps-craft-v13 .apps-craft-testimonial-section {
+.edu-network-v13 .edu-network-testimonial-section {
 	background-color: #31D2F4;
 	background-image: -webkit-linear-gradient( -136deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 	background-image: -ms-linear-gradient( -136deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 }
 
-.apps-craft-v13 .apps-craft-dash-border:before ,
-.apps-craft-v13 .apps-craft-team-img:before {
+.edu-network-v13 .edu-network-dash-border:before ,
+.edu-network-v13 .edu-network-team-img:before {
 	border-left-color: #05C9F8;
 }
-.apps-craft-v13 .apps-craft-video-content a i {
+.edu-network-v13 .edu-network-video-content a i {
 	background-image: -webkit-linear-gradient(left, #00c9fd 0%, #81ee8e 100%);
 	background-image: linear-gradient(to right, #00c9fd 0%, #81ee8e 100%);
 	-webkit-text-fill-color: transparent;
 }
 
-.apps-craft-v13 .apps-craft-commentor-img figcaption {
+.edu-network-v13 .edu-network-commentor-img figcaption {
 	background-color: #7BED93;
 }
 
-.apps-craft-v13 #apps-craft-testimonial-thumb figure:before {
+.edu-network-v13 #edu-network-testimonial-thumb figure:before {
 	background-color: rgba(123, 237, 147, 0.57);
 }
-.apps-craft-v13 .apps-craft-commentor-bio h3 span {
+.edu-network-v13 .edu-network-commentor-bio h3 span {
 	color: #333333;
 }
-.apps-craft-v13 .apps-craft-team-member-pic:before {
+.edu-network-v13 .edu-network-team-member-pic:before {
 	background-image: -webkit-linear-gradient(left, #00c9fd 0%, #81ee8e 100%);
 	background-image: linear-gradient(to right, #00c9fd 0%, #81ee8e 100%);
 }
 
 
-.apps-craft-v13 .apps-craft-subscribe-wraper,
-.apps-craft-v13 .apps-craft-accordion .panel-title,
-.apps-craft-v13 .apps-craft-contact-form input[type="submit"],
-.apps-craft-v13 .apps-craft-accordion .panel-title a:before,
-.apps-craft-v13 .apps-craft-btn.app-store-btn {
+.edu-network-v13 .edu-network-subscribe-wraper,
+.edu-network-v13 .edu-network-accordion .panel-title,
+.edu-network-v13 .edu-network-contact-form input[type="submit"],
+.edu-network-v13 .edu-network-accordion .panel-title a:before,
+.edu-network-v13 .edu-network-btn.app-store-btn {
 	background-image: -webkit-linear-gradient(left, #00c9fd 0%, #81ee8e 100%);
 	background-image: linear-gradient(to right, #00c9fd 0%, #81ee8e 100%);
 	background-color: transparent;
 }
 
-.apps-craft-v13 .apps-craft-subscribe-form input[type="submit"] {
+.edu-network-v13 .edu-network-subscribe-form input[type="submit"] {
 	background-color: #00C9FD;
 }
-.apps-craft-v13 .fun-factorey-paralx-bg-1 {
+.edu-network-v13 .fun-factorey-paralx-bg-1 {
 	background-image: url(img/version-13/fun-factory-bg-1.png);
 }
-.apps-craft-v13 .apps-craft-pricing-1 {
+.edu-network-v13 .edu-network-pricing-1 {
 	background-image: url(img/version-13/pricing-body-bg-1.png);
 }
-.apps-craft-v13 .apps-craft-pricing-2 {
+.edu-network-v13 .edu-network-pricing-2 {
 	background-image: url(img/version-13/pricing-body-bg-2.png);
 }
-.apps-craft-v13 .apps-craft-pricing-3 {
+.edu-network-v13 .edu-network-pricing-3 {
 	background-image: url(img/version-13/pricing-body-bg-3.png);
 }
-.apps-craft-v13 .apps-craft-footer-section  {
+.edu-network-v13 .edu-network-footer-section  {
 	background-image: url(img/version-13/footer-bg.png);
 }
-.apps-craft-v13 .apps-craft-btn.solid-color {
+.edu-network-v13 .edu-network-btn.solid-color {
 	background-color: #232838;
 }
-.apps-craft-v13 .apps-craft-btn.solid-color:hover {
+.edu-network-v13 .edu-network-btn.solid-color:hover {
 	background-color: #EEEEEE;
 	color: #333333;
 }
-.apps-craft-v13 .apps-craft-subscribe-form input[type="text"] {
+.edu-network-v13 .edu-network-subscribe-form input[type="text"] {
 	/*box-shadow: 0 18px 32px rgba(0,0,0,.28);*/
 }
-.apps-craft-v13 .apps-craft-feature-content:hover p {
+.edu-network-v13 .edu-network-feature-content:hover p {
 	color: #FFFFFF;
 }
-.apps-craft-v13 .apps-craft-accordion .panel-title a:before {
+.edu-network-v13 .edu-network-accordion .panel-title a:before {
 	background-color: #F4F4F4;
 	background-image: none;
 	color: #01C9FC;
 }
-.apps-craft-v13 .apps-craft-accordion .panel-title.click a:before {
+.edu-network-v13 .edu-network-accordion .panel-title.click a:before {
 	background-image: -webkit-linear-gradient(left, #00c9fd 0%, #81ee8e 100%);
 	background-image: linear-gradient(to right, #00c9fd 0%, #81ee8e 100%);
 	color: #FFFFFF;
 }
-.apps-craft-v13 .apps-craft-accordion .panel-title.click {
+.edu-network-v13 .edu-network-accordion .panel-title.click {
 	background-color: #FFFFFF;
 	background-image: none;
 }
-.apps-craft-v13 .apps-craft-side-bar-menu:before ,
-.apps-craft-v13 .apps-craft-side-menu:before{
+.edu-network-v13 .edu-network-side-bar-menu:before ,
+.edu-network-v13 .edu-network-side-menu:before{
 	background-image: -webkit-linear-gradient( 25deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 	background-image: -ms-linear-gradient( 25deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 	background-color: transparent;
 }
-.apps-craft-v13 .apps-craft-menu-item ul li a:hover {
+.edu-network-v13 .edu-network-menu-item ul li a:hover {
 	color: #00C9FD;
 }
 
-.apps-craft-v13 .apps-craft-welcome-section {
+.edu-network-v13 .edu-network-welcome-section {
 	background-image: -webkit-linear-gradient( 25deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 	background-image: -ms-linear-gradient( 25deg, rgb(1,201,252) 0%, rgb(123,237,147) 100%);
 }
@@ -1197,7 +1197,7 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 		Apps Craft Version 18
 ==================================================================================*/
 
-.apps-craft-18-banner-bg-wrap {
+.edu-network-18-banner-bg-wrap {
     position: absolute;
     top: 80%;
     left: 0;
@@ -1216,7 +1216,7 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
     transform-origin: 0;
     z-index: 1;
 }
-.apps-craft-18-banner-bg-wrap span {
+.edu-network-18-banner-bg-wrap span {
     height: 150px;
     position: relative;
     opacity: 0;
@@ -1224,38 +1224,38 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
     border-radius: 8px;
     margin-bottom: -3px;
 }
-body.apps-craft-v18.apps-craft--loaded .apps-craft-18-banner-bg-wrap span {
+body.edu-network-v18.edu-network--loaded .edu-network-18-banner-bg-wrap span {
     -webkit-animation: stripeSlideIn .8s forwards;
     animation: stripeSlideIn .8s forwards;
 }
-.apps-craft-18-banner-bg-wrap span:nth-child(1) {
+.edu-network-18-banner-bg-wrap span:nth-child(1) {
     left: 65%;
     right: auto;
     background: #EA4B50;
     box-shadow: rgba(0, 0, 0, 0.8) 10px 10px 60px -20px;
     z-index: 2;
 }
-body.apps-craft-v18.apps-craft--loaded .apps-craft-18-banner-bg-wrap span:nth-child(1) {
+body.edu-network-v18.edu-network--loaded .edu-network-18-banner-bg-wrap span:nth-child(1) {
     -webkit-animation-delay: .4s;
     animation-delay: .4s;
 }
-.apps-craft-18-banner-bg-wrap span:nth-child(2) {
+.edu-network-18-banner-bg-wrap span:nth-child(2) {
     left: 66%;
     bottom: auto;
     background: #F53565;
     box-shadow: rgba(0, 0, 0, 0.8) 10px 10px 60px -20px;
     z-index: 1;
 }
-body.apps-craft-v18.apps-craft--loaded .apps-craft-18-banner-bg-wrap span:nth-child(2) {
+body.edu-network-v18.edu-network--loaded .edu-network-18-banner-bg-wrap span:nth-child(2) {
     -webkit-animation-delay: .6s;
     animation-delay: .6s;
 }
-.apps-craft-18-banner-bg-wrap span:nth-child(3) {
+.edu-network-18-banner-bg-wrap span:nth-child(3) {
     left: 60%;
     background: #FF7B99;
     box-shadow: rgba(0, 0, 0, 0.8) 10px 10px 60px -20px;
 }
-body.apps-craft-v18.apps-craft--loaded .apps-craft-18-banner-bg-wrap span:nth-child(3) {
+body.edu-network-v18.edu-network--loaded .edu-network-18-banner-bg-wrap span:nth-child(3) {
     -webkit-animation-delay: .8s;
     animation-delay: .8s;
 }
@@ -1289,32 +1289,32 @@ body.apps-craft-v18.apps-craft--loaded .apps-craft-18-banner-bg-wrap span:nth-ch
 		Apps Craft Version 19
 =====================================================================*/
 
-.apps-craft-appscreen-slide {
+.edu-network-appscreen-slide {
 	position: relative;
 	z-index: 1;
 	max-width: 250px;
 	float: right;
 }
-.apps-craft-welcome-section-v19 .apps-craft-welcome-section-screen-short {
+.edu-network-welcome-section-v19 .edu-network-welcome-section-screen-short {
 	z-index: 1;
 }
-.apps-craft-welcome-section-v19 .apps-craft-welcome-content h1 span {
+.edu-network-welcome-section-v19 .edu-network-welcome-content h1 span {
 	color: #003333;
 }
-.apps-craft-welcome-section-v19 .apps-craft-btn.app-store-btn {
+.edu-network-welcome-section-v19 .edu-network-btn.app-store-btn {
 	background-image: none;
 	background-color: #232838;
 }
-.apps-craft-welcome-section-v19.apps-craft-welcome-section {
+.edu-network-welcome-section-v19.edu-network-welcome-section {
 	background-color: #F4F4F4;
 	height: 950px;
 }
-.apps-craft-welcome-section-v19 {
+.edu-network-welcome-section-v19 {
   overflow: hidden;
   background-color: #F4F4F4;
 }
-.apps-craft-welcome-section-v19:before, 
-.apps-craft-welcome-section-v19:after {
+.edu-network-welcome-section-v19:before, 
+.edu-network-welcome-section-v19:after {
   content: "";
   position: absolute;
   left: 50%;
@@ -1331,20 +1331,20 @@ body.apps-craft-v18.apps-craft--loaded .apps-craft-18-banner-bg-wrap span:nth-ch
   -webkit-animation-timing-function: linear;
           animation-timing-function: linear;
 }
-.apps-craft-welcome-section-v19:before {
+.edu-network-welcome-section-v19:before {
   bottom: 15vh;
   border-radius: 45%;
   -webkit-animation-duration: 10s;
           animation-duration: 10s;
 }
-.apps-craft-welcome-section-v19:after {
+.edu-network-welcome-section-v19:after {
   bottom: 12vh;
   opacity: .5;
   border-radius: 47%;
   -webkit-animation-duration: 10s;
           animation-duration: 10s;
 }
-.apps-craft-welcome-section-v19 .apps-craft-welcome-screenshort.parallax {
+.edu-network-welcome-section-v19 .edu-network-welcome-screenshort.parallax {
 	z-index: 1;
 }
 
@@ -1378,7 +1378,7 @@ body.apps-craft-v18.apps-craft--loaded .apps-craft-18-banner-bg-wrap span:nth-ch
   }
 }
 
-#apps-craft-appscreen-slide .owl-controls .owl-page span {
+#edu-network-appscreen-slide .owl-controls .owl-page span {
     margin: 5px 7px;
     background: transparent none repeat scroll 0 0;
     border: 1px solid #fff;
@@ -1391,7 +1391,7 @@ body.apps-craft-v18.apps-craft--loaded .apps-craft-18-banner-bg-wrap span:nth-ch
     -webkit-transition: 0.2s;
     transition: 0.2s;
 }
-#apps-craft-appscreen-slide  .owl-controls .owl-page.active span {
+#edu-network-appscreen-slide  .owl-controls .owl-page.active span {
     background: #fff;
     border: medium none;
     height: 12px;
@@ -1407,18 +1407,18 @@ body.apps-craft-v18.apps-craft--loaded .apps-craft-18-banner-bg-wrap span:nth-ch
 /*====================================================================== 
 		2. Apps Ccraft Main Menu 
 ====================================================================================*/
-#apps-craft-menu {
+#edu-network-menu {
     display: block;
 }
-.apps-craft-menu{
+.edu-network-menu{
 	text-align: right;
 	width: 97%;
 	float: left;
 }
-.apps-craft-menu ul li {
+.edu-network-menu ul li {
 	display: inline-block;
 }
-.apps-craft-menu ul li a {
+.edu-network-menu ul li a {
 	text-transform: uppercase;
 	color: #FFFFFF;
 	font-size: 1.0em;
@@ -1429,10 +1429,10 @@ body.apps-craft-v18.apps-craft--loaded .apps-craft-18-banner-bg-wrap span:nth-ch
 	-webkit-transition: all .4s linear;
 	transition: all .4s linear;
 }
-.apps-craft-menu-v5 .apps-craft-menu ul li a:hover {
+.edu-network-menu-v5 .edu-network-menu ul li a:hover {
 	color: #232838;
 }
-.apps-craft-search-bar {
+.edu-network-search-bar {
 	width: 3%;
 	float: left;
 	text-align: right;
@@ -1440,19 +1440,19 @@ body.apps-craft-v18.apps-craft--loaded .apps-craft-18-banner-bg-wrap span:nth-ch
 	-webkit-transition: all .4s linear;
 	transition: all .4s linear;
 }
-.apps-craft-search-bar a i {
+.edu-network-search-bar a i {
 	color: #FFFFFF;
 	font-size: 1.143em;
 }
-.apps-craft-search-bar a {
+.edu-network-search-bar a {
 	vertical-align: text-bottom;
 }
-.apps-craft-main-menu-area {
+.edu-network-main-menu-area {
 	-webkit-transition: all .4s linear;
 	transition: all .4s linear;
 }
 
-.apps-craft-main-menu-area.sticky-menu {
+.edu-network-main-menu-area.sticky-menu {
 	position: fixed;
 	background-color: #fbfbfb;
 	box-shadow: 0 11px 27px rgba(0,0,0,.04);
@@ -1461,26 +1461,26 @@ body.apps-craft-v18.apps-craft--loaded .apps-craft-18-banner-bg-wrap span:nth-ch
 	padding: 18px 0;
 	z-index: 9999999;
 }
-#apps-craft-main-menu-icon {
+#edu-network-main-menu-icon {
 	display: none;
 }
 
-.apps-craft-main-menu-area.sticky-menu .apps-craft-menu ul li a ,
-.apps-craft-main-menu-area.sticky-menu .apps-craft-search-bar a i{
+.edu-network-main-menu-area.sticky-menu .edu-network-menu ul li a ,
+.edu-network-main-menu-area.sticky-menu .edu-network-search-bar a i{
 	color: #777777;
 }
-.apps-craft-main-menu-area.sticky-menu .apps-craft-menu ul li a:hover ,
-.apps-craft-main-menu-area.sticky-menu .apps-craft-search-bar a:hover i{
+.edu-network-main-menu-area.sticky-menu .edu-network-menu ul li a:hover ,
+.edu-network-main-menu-area.sticky-menu .edu-network-search-bar a:hover i{
 	color: #3b5998;
 }
-.apps-craft-main-menu-area.sticky-menu .apps-craft-logo a img {
+.edu-network-main-menu-area.sticky-menu .edu-network-logo a img {
 	visibility: hidden;
 	-webkit-transition: all .4s linear;
 	transition: all .4s linear;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 }
-.apps-craft-main-menu-area.sticky-menu .apps-craft-logo a {
+.edu-network-main-menu-area.sticky-menu .edu-network-logo a {
 	background-image: url(img/sticky-logo_ori.png) !important;
 	background-size: contain;
 	padding: 30px 0px;
@@ -1491,11 +1491,11 @@ body.apps-craft-v18.apps-craft--loaded .apps-craft-18-banner-bg-wrap span:nth-ch
 }
 
 /* For Blue version */
-.apps-craft-solid-color .apps-craft-main-menu-area.sticky-menu .apps-craft-menu ul li a:hover ,
-.apps-craft-solid-color .apps-craft-main-menu-area.sticky-menu .apps-craft-search-bar a:hover i {
+.edu-network-solid-color .edu-network-main-menu-area.sticky-menu .edu-network-menu ul li a:hover ,
+.edu-network-solid-color .edu-network-main-menu-area.sticky-menu .edu-network-search-bar a:hover i {
 	color: #1DA1F2;
 }
-.apps-craft-solid-color .apps-craft-main-menu-area.sticky-menu .apps-craft-logo a {
+.edu-network-solid-color .edu-network-main-menu-area.sticky-menu .edu-network-logo a {
 	background-image: url(img/blue-v-sticky-logo.png) !important;
 }
 .la-ball-elastic-dots,
@@ -1530,7 +1530,7 @@ body.apps-craft-v18.apps-craft--loaded .apps-craft-18-banner-bg-wrap span:nth-ch
     padding: 10px 0px;
     cursor: pointer;
 }
-body.apps-craft-solid-color .la-ball-elastic-dots {
+body.edu-network-solid-color .la-ball-elastic-dots {
 	color: #1DA1F2 !important;
 }
 .la-ball-elastic-dots > div {
@@ -1605,7 +1605,7 @@ body.apps-craft-solid-color .la-ball-elastic-dots {
 
 
 /* menu version 2*/
-.apps-craft-side-bar-menu {
+.edu-network-side-bar-menu {
 	position: absolute;
 	height: 100%;
 	width: 100%;
@@ -1613,14 +1613,14 @@ body.apps-craft-solid-color .la-ball-elastic-dots {
 	top: 0;
 	left: 0;
 }
-.apps-craft-side-menu {
+.edu-network-side-menu {
 	position: fixed;
 	top: 0;
 	left: 0;
 	height: 100%;
 	width: 300px;
 }
-.apps-craft-side-menu:before {
+.edu-network-side-menu:before {
 	position: absolute;
 	content: "";
 	top: 0;
@@ -1636,7 +1636,7 @@ body.apps-craft-solid-color .la-ball-elastic-dots {
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 }
-.apps-craft-side-bar-menu:before {
+.edu-network-side-bar-menu:before {
 	position: fixed;
 	content: "";
 	top: 0;
@@ -1651,7 +1651,7 @@ body.apps-craft-solid-color .la-ball-elastic-dots {
 	-webkit-transition: all .2s ease;
 	transition: all .2s ease;
 }
-.apps-craft-side-bar-menu .apps-craft-logo {
+.edu-network-side-bar-menu .edu-network-logo {
 	padding: 80px 0;
 	text-align: center;
 	position: relative;
@@ -1662,7 +1662,7 @@ body.apps-craft-solid-color .la-ball-elastic-dots {
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 }
 
-.apps-craft-menu-item ul li a {
+.edu-network-menu-item ul li a {
 	padding: 20px 40px;
 	display: block;
 	color: #fff;
@@ -1675,15 +1675,15 @@ body.apps-craft-solid-color .la-ball-elastic-dots {
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 }
-.apps-craft-menu-item ul li:last-child a {
+.edu-network-menu-item ul li:last-child a {
 	border-bottom: 1px solid #fff;
 }
-.apps-craft-menu-item ul li a:hover {
+.edu-network-menu-item ul li a:hover {
 	background-color: #FFFFFF;
 	color: #3b5998;
 }
 
-.apps-craft-humberger-menu {
+.edu-network-humberger-menu {
 	position: absolute;
 	height: 50px;
 	width: 55px;
@@ -1698,7 +1698,7 @@ body.apps-craft-solid-color .la-ball-elastic-dots {
 	overflow: hidden;
 }
 
-.apps-craft-humberger-menu span {
+.edu-network-humberger-menu span {
 	display: block;
 	height: 2px;
 	width: calc(100% - 30px);
@@ -1712,95 +1712,95 @@ body.apps-craft-solid-color .la-ball-elastic-dots {
 	        transform: translate(-50%, -50%);
 	transition: all .4s ease;
 }
-.apps-craft-humberger-menu:hover span:first-child{
+.edu-network-humberger-menu:hover span:first-child{
 	-webkit-transform: translate(-50%, -8px);
 	        transform: translate(-50%, -8px);
 }
-.apps-craft-humberger-menu:hover span:last-child{
+.edu-network-humberger-menu:hover span:last-child{
 	-webkit-transform: translate(-50%, 8px);
 	        transform: translate(-50%, 8px);
 }
-.apps-craft-humberger-menu span:first-child {
+.edu-network-humberger-menu span:first-child {
 	-webkit-transform: translate(-50%, -10px);
 	        transform: translate(-50%, -10px);
 }
-.apps-craft-humberger-menu span:last-child {
+.edu-network-humberger-menu span:last-child {
 	-webkit-transform: translate(-50%, 10px);
 	        transform: translate(-50%, 10px);
 }
-.apps-craft-side-bar-menu.active .apps-craft-humberger-menu span:first-child,
-.apps-craft-side-bar-menu.active .apps-craft-humberger-menu span:last-child  {
+.edu-network-side-bar-menu.active .edu-network-humberger-menu span:first-child,
+.edu-network-side-bar-menu.active .edu-network-humberger-menu span:last-child  {
 	-webkit-transform-origin: right;
 	        transform-origin: right;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
-.apps-craft-side-bar-menu.active .apps-craft-humberger-menu span:first-child {
+.edu-network-side-bar-menu.active .edu-network-humberger-menu span:first-child {
 	-webkit-transform: translate(-70%, -10px) rotate(-45deg);
 	        transform: translate(-70%, -10px) rotate(-45deg);
 }
-.apps-craft-side-bar-menu.active .apps-craft-humberger-menu span {
+.edu-network-side-bar-menu.active .edu-network-humberger-menu span {
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	-webkit-transform: translateX(-50px);
 	        transform: translateX(-50px);
 }
-.apps-craft-side-bar-menu.active .apps-craft-humberger-menu span:last-child {
+.edu-network-side-bar-menu.active .edu-network-humberger-menu span:last-child {
 	-webkit-transform: translate(-70%, 8px) rotate(45deg);
 	        transform: translate(-70%, 8px) rotate(45deg);
 }
-.apps-craft-side-bar-menu.active:before {
+.edu-network-side-bar-menu.active:before {
 	opacity: .4;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
 	width: 100%;
 	left: 0;
 }
-.apps-craft-side-bar-menu.active .apps-craft-side-menu:before {
+.edu-network-side-bar-menu.active .edu-network-side-menu:before {
 	width: 100%;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	left: 0;
 }
 
-.apps-craft-side-bar-menu.active .apps-craft-logo {
+.edu-network-side-bar-menu.active .edu-network-logo {
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	left: 0;
 }
-.apps-craft-side-bar-menu.active .apps-craft-menu-item ul li a {
+.edu-network-side-bar-menu.active .edu-network-menu-item ul li a {
 	left: 0;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
-.apps-craft-side-bar-menu.active .apps-craft-menu-item ul li:nth-child(1) a {
+.edu-network-side-bar-menu.active .edu-network-menu-item ul li:nth-child(1) a {
 	-webkit-transition: all .5s ease;
 	transition: all .5s ease;
 }
-.apps-craft-side-bar-menu.active .apps-craft-menu-item ul li:nth-child(2) a {
+.edu-network-side-bar-menu.active .edu-network-menu-item ul li:nth-child(2) a {
 	-webkit-transition: all .6s ease;
 	transition: all .6s ease;
 }
-.apps-craft-side-bar-menu.active .apps-craft-menu-item ul li:nth-child(3) a {
+.edu-network-side-bar-menu.active .edu-network-menu-item ul li:nth-child(3) a {
 	-webkit-transition: all .7s ease;
 	transition: all .7s ease;
 }
-.apps-craft-side-bar-menu.active .apps-craft-menu-item ul li:nth-child(4) a {
+.edu-network-side-bar-menu.active .edu-network-menu-item ul li:nth-child(4) a {
 	-webkit-transition: all .8s ease;
 	transition: all .8s ease;
 }
-.apps-craft-side-bar-menu.active .apps-craft-menu-item ul li:nth-child(5) a {
+.edu-network-side-bar-menu.active .edu-network-menu-item ul li:nth-child(5) a {
 	-webkit-transition: all .9s ease;
 	transition: all .9s ease;
 }
-.apps-craft-side-bar-menu.active .apps-craft-menu-item ul li:nth-child(6) a {
+.edu-network-side-bar-menu.active .edu-network-menu-item ul li:nth-child(6) a {
 	-webkit-transition: all 1s ease;
 	transition: all 1s ease;
 }
-.apps-craft-side-bar-menu.active .apps-craft-menu-item ul li:nth-child(7) a {
+.edu-network-side-bar-menu.active .edu-network-menu-item ul li:nth-child(7) a {
 	-webkit-transition: all 1.1s ease;
 	transition: all 1.1s ease;
 }
-.apps-craft-side-bar-menu.active .apps-craft-humberger-menu {
+.edu-network-side-bar-menu.active .edu-network-humberger-menu {
 	left: calc(100% - 55px);
 }
 
@@ -1808,7 +1808,7 @@ body.apps-craft-solid-color .la-ball-elastic-dots {
 		3. Apps Craft Welcome Section 
 ======================================================================================*/
 
-.apps-craft-welcome-section{
+.edu-network-welcome-section{
 	position: relative;
 	overflow: hidden;
 	/*height: 1060px;*/
@@ -1817,20 +1817,20 @@ body.apps-craft-solid-color .la-ball-elastic-dots {
 	min-height: 700px;
 	background-color: #222838;
 }
-.apps-craft-welcome-section-v3.apps-craft-welcome-section {
+.edu-network-welcome-section-v3.edu-network-welcome-section {
 	overflow: visible;
 	height: 994px;
 }
-.apps-craft-welcome-section-v4.apps-craft-welcome-section {
+.edu-network-welcome-section-v4.edu-network-welcome-section {
 	height: 100vh;
 }
-.apps-craft-welcome-section-v4.apps-craft-welcome-section .apps-craft-welcome-tbl {
+.edu-network-welcome-section-v4.edu-network-welcome-section .edu-network-welcome-tbl {
 	height: 100vh;
 }
-.apps-craft-welcome-section-v3.apps-craft-welcome-section:before ,
-.apps-craft-welcome-section-v3.apps-craft-welcome-section:after ,
-.apps-craft-welcome-section-v4.apps-craft-welcome-section:before ,
-.apps-craft-welcome-section-v4.apps-craft-welcome-section:after {
+.edu-network-welcome-section-v3.edu-network-welcome-section:before ,
+.edu-network-welcome-section-v3.edu-network-welcome-section:after ,
+.edu-network-welcome-section-v4.edu-network-welcome-section:before ,
+.edu-network-welcome-section-v4.edu-network-welcome-section:after {
 	position: absolute;
 	content: "";
 	bottom: 0;
@@ -1842,29 +1842,29 @@ body.apps-craft-solid-color .la-ball-elastic-dots {
 	background-size: 100% 100%;
 	background-position: bottom center;
 }
-.apps-craft-welcome-section-v3.apps-craft-welcome-section:after ,
-.apps-craft-welcome-section-v4.apps-craft-welcome-section:after {
+.edu-network-welcome-section-v3.edu-network-welcome-section:after ,
+.edu-network-welcome-section-v4.edu-network-welcome-section:after {
 	background-image: url(img/version-3-welcome-shape-1.png);
 	height: 741px;
 }
 
-.apps-craft-welcome-section-v4.apps-craft-welcome-section:before ,
-.apps-craft-welcome-section-v4.apps-craft-welcome-section:after {
+.edu-network-welcome-section-v4.edu-network-welcome-section:before ,
+.edu-network-welcome-section-v4.edu-network-welcome-section:after {
 	background-size: cover;
 }
-.apps-craft-welcome-section .apps-craft-welcome-tbl{
+.edu-network-welcome-section .edu-network-welcome-tbl{
 	height: 750px;
 }
-.apps-craft-welcome-section-v19.apps-craft-welcome-section .apps-craft-welcome-tbl{
+.edu-network-welcome-section-v19.edu-network-welcome-section .edu-network-welcome-tbl{
 	height: 850px;
 }
-.apps-craft-welcome-section.apps-craft-video-bg .apps-craft-welcome-tbl{
+.edu-network-welcome-section.edu-network-video-bg .edu-network-welcome-tbl{
 	height: 100vh;
 }
-.apps-craft-welcome-screenshort .apps-craft-welcome-tbl{
+.edu-network-welcome-screenshort .edu-network-welcome-tbl{
 	height: 850px;
 }
-.apps-craft-main-menu-area {
+.edu-network-main-menu-area {
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -1872,26 +1872,26 @@ body.apps-craft-solid-color .la-ball-elastic-dots {
 	z-index: 10;
 	padding: 40px 0 0;
 }
-body.apps-craft-video-banner .apps-craft-main-menu-area {
+body.edu-network-video-banner .edu-network-main-menu-area {
 	z-index: 101;
 }
-body.apps-craft-video-banner .apps-craft-welcome-container {
+body.edu-network-video-banner .edu-network-welcome-container {
 	position: relative;
 	z-index: 100;
 }
-.apps-craft-main-menu-area.apps-craft-video-section-menu {
+.edu-network-main-menu-area.edu-network-video-section-menu {
 	z-index: 9999;
 }
-.apps-craft-welcome-container {
+.edu-network-welcome-container {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: bottom center;
 }
-.apps-craft-welcome-content {
+.edu-network-welcome-content {
 	position: relative;
 	z-index: 1;
 }
-.apps-craft-welcome-content h1{
+.edu-network-welcome-content h1{
 	color: #FFFFFF;
 	font-size: 3.429em;
 	margin: 0;
@@ -1900,72 +1900,72 @@ body.apps-craft-video-banner .apps-craft-welcome-container {
 	font-weight: 300;
 	margin-bottom: 70px;
 }
-.apps-craft-welcome-content h1 span{
+.edu-network-welcome-content h1 span{
 	font-weight: 400;
 	font-size: inherit;
 	letter-spacing: 1px;
 	line-height: 1;
 }
-.apps-craft-welcome-screenshort img {
+.edu-network-welcome-screenshort img {
 	position: relative;
 	height: 500px;
 }
 
-.apps-craft-welcome-section-screen-short {
+.edu-network-welcome-section-screen-short {
 	position: relative;
 	z-index: 1;
 }
-.apps-craft-welcome-section-v4 .apps-craft-welcome-section-screen-short {
+.edu-network-welcome-section-v4 .edu-network-welcome-section-screen-short {
 	z-index: 1;
 }
-body.apps-craft-v7 .apps-craft-welcome-section-screen-short {
+body.edu-network-v7 .edu-network-welcome-section-screen-short {
     z-index: 1;
 }
-.apps-craft-position-rel {
+.edu-network-position-rel {
 	position: absolute;
 	width: calc(100% + 200px);
 	bottom: -100px;
 	left: -100px;
 	z-index: 1;
 }
-body.apps-craft-v7 .apps-craft-position-rel {
+body.edu-network-v7 .edu-network-position-rel {
     top: -70px;
 }
-.apps-craft-position-rel .layer {
+.edu-network-position-rel .layer {
 	display: block;
 	height: 100%;
 	width: 100%;
 	padding: 0;
 	margin: 0;
 }
-.apps-craft-position-rel .layer img {
+.edu-network-position-rel .layer img {
 	display: block;
 	width: 100%;
 }
 
-.apps-craft-welcome-section-v5 .apps-craft-position-rel {
+.edu-network-welcome-section-v5 .edu-network-position-rel {
     width: 260px;
     max-height: none;
     bottom: 150px;
     right: 20%;
     left: inherit;
 }
-.apps-craft-welcome-section-v5 .apps-craft-position-rel .layer {
+.edu-network-welcome-section-v5 .edu-network-position-rel .layer {
 	height: auto;
 	width: auto;
 }
-.apps-craft-welcome-section-v5 .apps-craft-position-rel .layer img {
+.edu-network-welcome-section-v5 .edu-network-position-rel .layer img {
 	width: auto;
 }
 
 /* Video Version, Slider Version, ScreenShort Version And Another Parallax Version */
-.apps-craft-welcome-section.apps-craft-video-bg {
+.edu-network-welcome-section.edu-network-video-bg {
 	height: 100vh;
 	background-attachment: fixed;
 	position: relative;
 	min-height: inherit;
 }
-.apps-craft-welcome-section.apps-craft-video-bg:before {
+.edu-network-welcome-section.edu-network-video-bg:before {
 	position: absolute;
 	content: "";
 	top: 0;
@@ -1975,26 +1975,26 @@ body.apps-craft-v7 .apps-craft-position-rel {
 	background-color: rgba(35, 40, 56, 0.8);
 	z-index: 99;
 }
-.apps-craft-video-bg .apps-craft-welcome-content h1 ,
-.apps-craft-welcome-section-v3 .apps-craft-welcome-content h1 ,
-.apps-craft-welcome-section-v4 .apps-craft-welcome-content h1 {
+.edu-network-video-bg .edu-network-welcome-content h1 ,
+.edu-network-welcome-section-v3 .edu-network-welcome-content h1 ,
+.edu-network-welcome-section-v4 .edu-network-welcome-content h1 {
 	margin: 0 auto 30px auto;
 }
-.apps-craft-video-bg .apps-craft-welcome-content h1 span,
-.apps-craft-welcome-section-v3 .apps-craft-welcome-content h1 span ,
-.apps-craft-welcome-section-v4 .apps-craft-welcome-content h1 span {
+.edu-network-video-bg .edu-network-welcome-content h1 span,
+.edu-network-welcome-section-v3 .edu-network-welcome-content h1 span ,
+.edu-network-welcome-section-v4 .edu-network-welcome-content h1 span {
 	text-transform: inherit;
 	font-style: inherit;
 }
-.apps-craft-video-bg .apps-craft-welcome-content p ,
-.apps-craft-welcome-section-v3  .apps-craft-welcome-content p  {
+.edu-network-video-bg .edu-network-welcome-content p ,
+.edu-network-welcome-section-v3  .edu-network-welcome-content p  {
 	width: 66.66666666667%;
 	margin: 0 auto 40px auto;
 	color: #E3E3E3;
 	font-size: 1.143em;
 	font-weight: 300;
 }
-.apps-craft-welcome-screenshort-v3 {
+.edu-network-welcome-screenshort-v3 {
 	position: absolute;
 	bottom: -75px;
 	left: 50%;
@@ -2005,31 +2005,31 @@ body.apps-craft-v7 .apps-craft-position-rel {
 	text-align: center;
 	z-index: 1;
 }
-#apps-craft-welcome-slider {
+#edu-network-welcome-slider {
 	position: relative;
 	z-index: 9;
 }
-.apps-craft-welcome-screenshort-v3 figure {
+.edu-network-welcome-screenshort-v3 figure {
 	float: left;
 	width: 33%;
 	max-height: 500px;
 }
 
-.apps-craft-welcome-screenshort-v3 figure img {
+.edu-network-welcome-screenshort-v3 figure img {
 	width: auto;
 	height: auto;
 	max-height: 500px;
 }
 
-.apps-craft-welcome-section-v4 .owl-carousel .owl-item.active .apps-craft-welcome-content h1 {
+.edu-network-welcome-section-v4 .owl-carousel .owl-item.active .edu-network-welcome-content h1 {
   -webkit-animation: fadeInRightPix 1s cubic-bezier(0.7, 0, 0.3, 1) 200ms both;
   animation: fadeInRightPix 1s cubic-bezier(0.7, 0, 0.3, 1) 200ms both;
 }
-.apps-craft-welcome-section-v4 .owl-carousel .owl-item.active .apps-craft-download-store-btn-group {
+.edu-network-welcome-section-v4 .owl-carousel .owl-item.active .edu-network-download-store-btn-group {
   -webkit-animation: fadeInRightPix 1s cubic-bezier(0.7, 0, 0.3, 1) 600ms both;
   animation: fadeInRightPix 1s cubic-bezier(0.7, 0, 0.3, 1) 600ms both;
 }
-.apps-craft-welcome-section-v4 .owl-carousel .owl-item.active .apps-craft-welcome-section-screen-short {
+.edu-network-welcome-section-v4 .owl-carousel .owl-item.active .edu-network-welcome-section-screen-short {
   -webkit-animation: fadeInLeftPix 1s cubic-bezier(0.7, 0, 0.3, 1) 400ms both;
   animation: fadeInLeftPix 1s cubic-bezier(0.7, 0, 0.3, 1) 400ms both;
 }
@@ -2140,18 +2140,18 @@ body.apps-craft-v7 .apps-craft-position-rel {
   -webkit-animation-name: fadeInRightPix;
           animation-name: fadeInRightPix;
 }
-#apps-craft-welcome-slider .owl-controls {
+#edu-network-welcome-slider .owl-controls {
     position: absolute;
     bottom: 10px;
     width: 100%;
     text-align: center;
 }
-#apps-craft-welcome-slider.owl-theme .owl-controls .owl-page span {
+#edu-network-welcome-slider.owl-theme .owl-controls .owl-page span {
     background: #fff;
 }
 
 /* Welcome Section For Version 5 */
-.apps-craft-welcome-section.apps-craft-welcome-section-v5:after {
+.edu-network-welcome-section.edu-network-welcome-section-v5:after {
 	position: absolute;
 	content: "";
 	bottom: 0;
@@ -2163,21 +2163,21 @@ body.apps-craft-v7 .apps-craft-position-rel {
 	background-position: top center;
 	background-repeat: no-repeat;
 }
-.apps-craft-welcome-section-v5 .apps-craft-welcome-section-screen-short {
+.edu-network-welcome-section-v5 .edu-network-welcome-section-screen-short {
 	z-index: 1;
 }
-.apps-craft-welcome-section-v5 .apps-craft-welcome-content h1 span {
+.edu-network-welcome-section-v5 .edu-network-welcome-content h1 span {
 	color: #003333;
 }
-.apps-craft-welcome-section-v5 .apps-craft-btn.app-store-btn {
+.edu-network-welcome-section-v5 .edu-network-btn.app-store-btn {
 	background-image: none;
 	background-color: #232838;
 }
-.apps-craft-welcome-section-v5.apps-craft-welcome-section {
+.edu-network-welcome-section-v5.edu-network-welcome-section {
 	background-color: #F4F4F4;
 	height: 850px;
 }
-.apps-craft-welcome-section-v5 .apps-craft-position-rel-v2 .background {
+.edu-network-welcome-section-v5 .edu-network-position-rel-v2 .background {
 	background-color: #232838;
 	height: 100%;
 	width: calc(100vw + 400px);
@@ -2185,38 +2185,38 @@ body.apps-craft-v7 .apps-craft-position-rel {
 	left: -200px;
 	top: 0px
 }
-.apps-craft-welcome-section-v5 .apps-craft-position-rel-v2 .background img {
+.edu-network-welcome-section-v5 .edu-network-position-rel-v2 .background img {
 	width: 100%;
 }
 
 
-body.apps-craft-v6 .apps-craft-welcome-section {
+body.edu-network-v6 .edu-network-welcome-section {
 	height: 100vh;
 	max-height: 800px;
 }
-body.apps-craft-v6 .apps-craft-welcome-section .apps-craft-welcome-tbl {
+body.edu-network-v6 .edu-network-welcome-section .edu-network-welcome-tbl {
     height: 100vh;
 	max-height: 800px;
 }
-body.apps-craft-v7 .apps-craft-welcome-section {
+body.edu-network-v7 .edu-network-welcome-section {
 	height: 100vh;
 }
-body.apps-craft-v7 .apps-craft-welcome-section .apps-craft-welcome-tbl,
-body.apps-craft-v7 .apps-craft-welcome-screenshort .apps-craft-welcome-tbl {
+body.edu-network-v7 .edu-network-welcome-section .edu-network-welcome-tbl,
+body.edu-network-v7 .edu-network-welcome-screenshort .edu-network-welcome-tbl {
 	height: 100vh;
 }
-body.apps-craft-v7 .apps-craft-welcome-section .apps-craft-welcome-tbl .apps-craft-welcome-tbl-c {
+body.edu-network-v7 .edu-network-welcome-section .edu-network-welcome-tbl .edu-network-welcome-tbl-c {
 	vertical-align: middle;
 }
-body.apps-craft-v7 .apps-craft-welcome-screenshort .apps-craft-welcome-tbl .apps-craft-welcome-tbl-c {
+body.edu-network-v7 .edu-network-welcome-screenshort .edu-network-welcome-tbl .edu-network-welcome-tbl-c {
     vertical-align: bottom;
 }
-body.apps-craft-v7 .apps-craft-welcome-screenshort img {
+body.edu-network-v7 .edu-network-welcome-screenshort img {
     position: relative;
     height: auto;
     max-height: 660px;
 }
-body.apps-craft-v7 .apps-craft-position-rel .layer img {
+body.edu-network-v7 .edu-network-position-rel .layer img {
     display: block;
     width: 100%;
     opacity: .8;
@@ -2234,7 +2234,7 @@ body.apps-craft-v7 .apps-craft-position-rel .layer img {
 	pointer-events: none;
 }
 /* version 13 */
-.apps-craft-v13 .apps-craft-welcome-section:before {
+.edu-network-v13 .edu-network-welcome-section:before {
 	position: absolute;
 	content: "";
 	height: 240px;
@@ -2246,39 +2246,39 @@ body.apps-craft-v7 .apps-craft-position-rel .layer img {
 }
 /*Version 18*/
 
-.apps-craft-welcome-section.apps-craft-welcome-section-v18:after {
+.edu-network-welcome-section.edu-network-welcome-section-v18:after {
 	content: none;
 }
-.apps-craft-welcome-section-v18 .apps-craft-position-rel-v2 .background {
+.edu-network-welcome-section-v18 .edu-network-position-rel-v2 .background {
     width: calc(100vw + 200px);
     left: -100px;
 }
-.apps-craft-welcome-section-v18 .apps-craft-position-rel-v2 .background img {
+.edu-network-welcome-section-v18 .edu-network-position-rel-v2 .background img {
     max-height: 850px;
 }
-.apps-craft-welcome-section-v18 .apps-craft-welcome-content h1 {
+.edu-network-welcome-section-v18 .edu-network-welcome-content h1 {
     color: #333;
     font-size: 3.429em;
     text-transform: capitalize;
     line-height: 1.3;
     font-weight: 600;
 }
-.apps-craft-welcome-section-v18 .apps-craft-welcome-content h1 span {
+.edu-network-welcome-section-v18 .edu-network-welcome-content h1 span {
     font-weight: 700;
 	color: #fff;
     text-shadow: 4px 4px 5px rgba(0,0,0, .3);
 }
-.apps-craft-welcome-section-v18 .apps-craft-download-store-btn-group a.apps-craft-btn {
+.edu-network-welcome-section-v18 .edu-network-download-store-btn-group a.edu-network-btn {
     box-shadow: 2px 3px 15px rgba(0,0,0, .3);
 }
 /*Apps Screen Codes*/
-.apps-craft-welcome-section-v18 .apps-craft-position-rel .layer {
+.edu-network-welcome-section-v18 .edu-network-position-rel .layer {
     width: 280px;
     height: 573px;
     background-image: url(img/feature-app-screenshort.png);
     background-size: 100% 100%;
 }
-.apps-craft-welcome-section-v18 .apps-craft-position-rel {
+.edu-network-welcome-section-v18 .edu-network-position-rel {
     bottom: 15%;
 }
 .appscraft-screen-container {
@@ -2508,11 +2508,11 @@ body.apps-craft-v7 .apps-craft-position-rel .layer img {
 		4. Apps Craft About 
 ====================================================================================================*/
 
-.apps-craft-single-about {
+.edu-network-single-about {
 	text-align: center;
 	color: #FFFFFF;
 }
-.apps-craft-single-about span{
+.edu-network-single-about span{
 	font-size: 2.857em;
 	background-image: url(img/about-ico-bg.png);
 	background-repeat: no-repeat;
@@ -2524,18 +2524,18 @@ body.apps-craft-v7 .apps-craft-position-rel .layer img {
 	margin-bottom: 30px;
 	line-height: 97px;
 }
-.apps-craft-single-about h3 {
+.edu-network-single-about h3 {
 	margin: 0;
 	font-size: 1.714em;
 	font-weight: 500;
 	margin-bottom: 28px;
 }
-.apps-craft-single-about p {
+.edu-network-single-about p {
 	margin: 0;
 	padding: 0 5px;
 	color: #E3E3E3;
 }
-.apps-craft-about-section {
+.edu-network-about-section {
 	position: absolute;
 	width: 100%;
 	bottom: 70px;
@@ -2547,23 +2547,23 @@ body.apps-craft-v7 .apps-craft-position-rel .layer img {
 		5. Apps Craft Feature Section 
 ===================================================================================*/
 
-.apps-craft-feature-section{
+.edu-network-feature-section{
 	background-color: #F4F4F4;
 }
-.apps-craft-single-feature{
+.edu-network-single-feature{
 	width: 50%;
 	float: left;
 	padding: 15px;
 	text-align: center;
 }
-.apps-craft-feature-content {
+.edu-network-feature-content {
 	background-color: #FFFFFF;
 	box-shadow: 0 0 35px rgba(0,0,0,.08);
 	padding: 20px 20px;
 	position: relative;
 	z-index: 2;
 }
-.apps-craft-feature-content:before {
+.edu-network-feature-content:before {
 	position: absolute;
 	content: "";
 	top: 0;
@@ -2576,7 +2576,7 @@ body.apps-craft-v7 .apps-craft-position-rel .layer img {
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 }
-.apps-craft-feature-content i{
+.edu-network-feature-content i{
 	color: #FFFFFF;
 	font-size: 3.000em;
 	width: 76px;
@@ -2590,122 +2590,122 @@ body.apps-craft-v7 .apps-craft-position-rel .layer img {
 	-webkit-transition: background .4s linear;
 	transition: background .4s linear;
 }
-.apps-craft-feature-content h3 {
+.edu-network-feature-content h3 {
 	margin: 0;
 	color: #666666;
 	font-size: 1.714em;
 	font-weight: 500;
 	margin-bottom: 25px;
 }
-.apps-craft-feature-content p {
+.edu-network-feature-content p {
 	margin: 0;
 }
-.apps-craft-feature-content:hover:before {
+.edu-network-feature-content:hover:before {
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
-.apps-craft-feature-content:hover i{
+.edu-network-feature-content:hover i{
 	color: #333333;
 	background: none;
 	background-color: #FEEDEF;
 }
-.apps-craft-feature-content:hover h3{
+.edu-network-feature-content:hover h3{
 	color: #FFFFFF;
 }
-.apps-craft-feature-content:hover p{
+.edu-network-feature-content:hover p{
 	color: #DDDDDD;
 }
-.apps-craft-feature-img figure{
+.edu-network-feature-img figure{
 	position: relative;
 	text-align: center;
 	display: inline-block;    
 }
-.apps-craft-feature-img .apps-craft-feature-ico{ 
+.edu-network-feature-img .edu-network-feature-ico{ 
 	position: absolute;
 }
-.apps-craft-feature-img .icon-1x{
+.edu-network-feature-img .icon-1x{
 	left: 0px;
 	top: 163px;
 	width: 93px;
 }
-.apps-craft-feature-img .icon-2x{
+.edu-network-feature-img .icon-2x{
 	left: 0;
 	top: 133px;
 	width: 64px;
 }
-.apps-craft-feature-img .icon-3x{
+.edu-network-feature-img .icon-3x{
 	left: 0;
 	top: 96px;
 	width: 24px;
 }
-.apps-craft-feature-img .icon-4x{
+.edu-network-feature-img .icon-4x{
 	left: 0;
 	top: -17px;
 	width: 73px;
 }
-.apps-craft-feature-img .icon-5x{
+.edu-network-feature-img .icon-5x{
 	left: 0;
 	top: -92px;
 	width: 84px;
 }
-.apps-craft-feature-img .icon-6x{
+.edu-network-feature-img .icon-6x{
 	top: 0;
 	left: 40px;
 	width: 19px;
 }
-.apps-craft-feature-img  .icon-7x{
+.edu-network-feature-img  .icon-7x{
 	top: 0;
 	left: 60px;
 	width: 119px;
 }
-.apps-craft-feature-img  .icon-8x{
+.edu-network-feature-img  .icon-8x{
 	top: 0;
 	left: inherit;
 	right: 30px;
 	width: 70px;
 }
-.apps-craft-feature-img  .icon-9x{
+.edu-network-feature-img  .icon-9x{
 	top: 10px;
 	left: 0;
 	width: 149px;
 }
-.apps-craft-feature-img  .icon-10x{
+.edu-network-feature-img  .icon-10x{
 	top: 0;
 	left: inherit;
 	right: 111px;
 	width: 33px;
 }
-.apps-craft-feature-img  .icon-11x{
+.edu-network-feature-img  .icon-11x{
 	top: -40px;
 	left: inherit;
 	right: 0;
 	width: 129px;
 }
-.apps-craft-feature-img  .icon-12x{
+.edu-network-feature-img  .icon-12x{
 	top: 70px;
 	left: inherit;
 	right: 0;
 	width: 112px;
 }
-.apps-craft-feature-img  .icon-13x{
+.edu-network-feature-img  .icon-13x{
 	top: -50px;
 	left: inherit;
 	right: 0;
 	width: 67px;
 }
-.apps-craft-feature-img  .icon-14x{
+.edu-network-feature-img  .icon-14x{
 	top: -70px;
 	left: inherit;
 	right: 0;
 	width: 25px;
 }
-.apps-craft-feature-img .icon-15x {
+.edu-network-feature-img .icon-15x {
 	top: 38px;
 	left: inherit;
 	right: 0;
 	width: 21px;
 }
-.apps-craft-feature-img .icon-16x {
+.edu-network-feature-img .icon-16x {
 	top: -62px;
 	left: 0;
 	right: inherit;
@@ -2717,7 +2717,7 @@ body.apps-craft-v7 .apps-craft-position-rel .layer img {
 		6. Apps Craft Video Section 
 ======================================================================*/
 
-.apps-craft-video-section{
+.edu-network-video-section{
 	position: relative;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -2731,11 +2731,11 @@ body.apps-craft-v7 .apps-craft-position-rel .layer img {
 	height: 600px;
 	display: table;
 }
-.apps-craft-video-section-inner {
+.edu-network-video-section-inner {
 	display: table-cell;
 	vertical-align: middle;
 }
-.apps-craft-video-section:before {
+.edu-network-video-section:before {
 	position: absolute;
 	content: "";
 	top: 0;
@@ -2748,7 +2748,7 @@ body.apps-craft-v7 .apps-craft-position-rel .layer img {
 	background-size: 50%;
 	z-index: 2;
 }
-.apps-craft-video-section:after {
+.edu-network-video-section:after {
 	position: absolute;
 	content: "";
 	top: 0;
@@ -2762,29 +2762,29 @@ body.apps-craft-v7 .apps-craft-position-rel .layer img {
 	opacity: .93;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=93)";
 }
-.apps-craft-video-content{
+.edu-network-video-content{
 	position: relative;
 	z-index: 4;
 }
-.apps-craft-video-content h4{
+.edu-network-video-content h4{
 	margin: 0;
 	font-size: 2.571em;
 	text-transform: capitalize;
 	margin-bottom: 63px;
 }
-.apps-craft-video-content a i {
+.edu-network-video-content a i {
 	display: inline-block;
 	font-size: 10.000em;
 	color: #f4f4f4;
 }
-body.apps-craft-v6 .apps-craft-video-content {
+body.edu-network-v6 .edu-network-video-content {
     text-align: center;
     padding: 100px 0;
 }
-body.apps-craft-v6 .apps-craft-video-content h4 {
+body.edu-network-v6 .edu-network-video-content h4 {
 	margin-bottom: 10px;
 }
-body.apps-craft-v6 .apps-craft-video-content a i {
+body.edu-network-v6 .edu-network-video-content a i {
 	font-size: 5.000em;
 }
 
@@ -2792,7 +2792,7 @@ body.apps-craft-v6 .apps-craft-video-content a i {
 		7. Apps Craft Fun Factory 
 ==============================================================================================*/
 
-.apps-craft-fun-factory-section {
+.edu-network-fun-factory-section {
 	position: relative;    
 	background-color: #F4F4F4;
 	z-index: 4;
@@ -2808,11 +2808,11 @@ body.apps-craft-v6 .apps-craft-video-content a i {
 	background-repeat: repeat-x;
 }
 
-.apps-craft-fun-factory-section div.apps-craft-tbl {
+.edu-network-fun-factory-section div.edu-network-tbl {
 	height: 600px;
 }
 
-.apps-craft-fun-factory-wraper{
+.edu-network-fun-factory-wraper{
 	position: relative;
 	z-index: 5;
 	min-height: 200px;
@@ -2821,21 +2821,21 @@ body.apps-craft-v6 .apps-craft-video-content a i {
 	padding: 44px 0;
 	background-attachment: fixed;
 }
-.apps-craft-single-fun{
+.edu-network-single-fun{
 	text-align: center;
 }
-.apps-craft-single-fun i{
+.edu-network-single-fun i{
 	font-size: 2.571em;
 	margin-bottom: 24px;
 }
-.apps-craft-single-fun h5{
+.edu-network-single-fun h5{
 	margin: 0;
 	color: #444444;
 	font-size: 2.143em;
 	font-weight: 600;
 	margin-bottom: 10px;
 }
-.apps-craft-single-fun h6 {
+.edu-network-single-fun h6 {
 	margin: 0;
 	font-size: 1em;
 	color: #333333;
@@ -2849,13 +2849,13 @@ body.apps-craft-v6 .apps-craft-video-content a i {
 		8. Apps Craft Why Choose Us 
 =======================================================================================================*/
 
-.apps-craft-why-chose-ico {
+.edu-network-why-chose-ico {
 	width: 30%;
 	float: left;
 	height: 100%;
 	text-align: center;
 }
-.apps-craft-why-chose-ico span.apps-craft-round{
+.edu-network-why-chose-ico span.edu-network-round{
 	width: 86px;
 	height: 86px;
 	border-radius: 50%;
@@ -2867,13 +2867,13 @@ body.apps-craft-v6 .apps-craft-video-content a i {
 	font-size: 2.571em;
 	text-align: center;
 }
-.apps-craft-dash-border{
+.edu-network-dash-border{
 	position: relative;
 	display: block;
 	height: 100%;
 	width: 100%;
 }
-.apps-craft-dash-border:before{
+.edu-network-dash-border:before{
 	position: absolute;
 	content: "";
 	top: 0;
@@ -2882,14 +2882,14 @@ body.apps-craft-v6 .apps-craft-video-content a i {
 	bottom: 0;
 	height: 100%;
 }
-.apps-craft-why-chose-txt{
+.edu-network-why-chose-txt{
 	width: 70%;
 	float: left;
 }
-.apps-craft-why-chose-single{
+.edu-network-why-chose-single{
 	margin-bottom: 35px;
 }
-.apps-craft-why-chose-txt h3{
+.edu-network-why-chose-txt h3{
 	color: #666666;
 	font-size: 1.714em;
 	margin: 0;
@@ -2897,49 +2897,49 @@ body.apps-craft-v6 .apps-craft-video-content a i {
 	text-transform: capitalize;
 	margin: 29px 0 23px;
 }
-.apps-craft-why-chose-txt p {
+.edu-network-why-chose-txt p {
 	margin: 0;
 	color: #333333;
 	word-break: break-all;
 }
-.apps-craft-why-choose-us-container {
+.edu-network-why-choose-us-container {
 	width: calc(100% - 160px);
 	margin: 0 auto;
 	display: table;
 }
-.apps-craft-why-choose-us-container-inner{
+.edu-network-why-choose-us-container-inner{
 	vertical-align: middle;
 	display: table-cell;
 }
-.apps-craft-why-chose-img {
+.edu-network-why-chose-img {
 	width: calc(100% - 70px);
 	margin: auto 0 0 0;
 }
-.apps-craft-why-chose-us-section{
+.edu-network-why-chose-us-section{
 	position: relative;
 	background-color: #FEFEFE;
 }
-#apps-craft-chose-us {
+#edu-network-chose-us {
 	background-image: url(img/why-choose-us-bg.png);
 	background-repeat: repeat;
 }
-.apps-craft-why-chose-us-section .content-margin-top {
+.edu-network-why-chose-us-section .content-margin-top {
 	margin-top: 80px;
 }
-.apps-craft-why-chose-us-section.section-padding{
+.edu-network-why-chose-us-section.section-padding{
 	padding: 130px 0 0 0;
 }
-figure.apps-craft-why-chose-img img:first-child {
+figure.edu-network-why-chose-img img:first-child {
 	position: absolute;
 	width: 305px;
 	left: 0;
 	bottom: 0;
 	z-index: 99;
 }
-figure.apps-craft-why-chose-img img:last-child {
+figure.edu-network-why-chose-img img:last-child {
 	width: 375px;
 }
-.apps-craft-why-chose-img{
+.edu-network-why-chose-img{
 	float: right;
 }
 /*======================================================== 
@@ -3051,7 +3051,7 @@ blockquote.team-quote p {
     vertical-align: top;
     font-style: italic;
 }
-.showcase-content .apps-craft-btn.solid-color {
+.showcase-content .edu-network-btn.solid-color {
     width: 215px;
     height: 70px;
     line-height: 60px;
@@ -3093,22 +3093,22 @@ blockquote.team-quote p {
 		10. Apps Craft Testimonial 
 ==========================================================================*/
 
-.apps-craft-commentor-img {
+.edu-network-commentor-img {
 	position: relative;
 	display: inline-block;
 }
-.apps-craft-commentor-img-continer{
+.edu-network-commentor-img-continer{
 	width: 26%;
 	float: left;
 }
-.apps-craft-commentor-img img{
+.edu-network-commentor-img img{
 	width: 120px;
 	height: 120px;
 	border-radius: 100%;
 	background-color: #fff;
 	box-shadow: 0 18px 32px rgba(0,0,0,.28);
 }
-.apps-craft-commentor-img figcaption {
+.edu-network-commentor-img figcaption {
 	width: 68px;
 	height: 68px;
 	border-radius: 34px;
@@ -3122,18 +3122,18 @@ blockquote.team-quote p {
 	right: -50px;
 	z-index: -1;
 }
-.apps-craft-testimonial-content{
+.edu-network-testimonial-content{
 	width: calc(100% - 200px);
 	margin: 0 auto;
 	padding: 50px 0;
 }
-.apps-craft-rating-and-bio{
+.edu-network-rating-and-bio{
 	width: 70%;
 	float: left;
 	position: relative;
 }
-.apps-craft-rating-and-bio:before,
-.apps-craft-rating-and-bio:after{
+.edu-network-rating-and-bio:before,
+.edu-network-rating-and-bio:after{
 	position: absolute;
 	content: "\f1b2";
 	top: -30px;
@@ -3144,7 +3144,7 @@ blockquote.team-quote p {
 	-webkit-transform: rotate(-180deg);
 	        transform: rotate(-180deg)
 }
-.apps-craft-rating-and-bio:after {
+.edu-network-rating-and-bio:after {
 	top: inherit;
 	bottom: 0;
 	left: inherit;
@@ -3153,32 +3153,32 @@ blockquote.team-quote p {
 	        transform: rotateX(180deg);
 }
 
-.apps-craft-rating-and-bio p{
+.edu-network-rating-and-bio p{
 	font-weight: 400;
 	color: #FFFFFF;
 	margin: 0;
 	margin-bottom: 30px;
 }
-.apps-craft-rating {
+.edu-network-rating {
 	width: 20%;
 	float: left;
 }
-.apps-craft-rating ul li{
+.edu-network-rating ul li{
 	float: left;
 }
-.apps-craft-rating ul li a{
+.edu-network-rating ul li a{
 	color: #FFDC3B;
 	display: block;
 	font-size: 1.286em;
 }
-.apps-craft-rating ul li a i{
+.edu-network-rating ul li a i{
 	width: auto;
 }
-.apps-craft-commentor-bio{
+.edu-network-commentor-bio{
 	width: 80%;
 	float: left;
 }
-.apps-craft-commentor-bio h3 {
+.edu-network-commentor-bio h3 {
 	margin: 0;
 	font-size: 1.286em;
 	color: #FEFEFE;
@@ -3186,24 +3186,24 @@ blockquote.team-quote p {
 	font-weight: 600;
 	padding: 2px 15px;
 }
-.apps-craft-commentor-bio h3 span {
+.edu-network-commentor-bio h3 span {
 	color: #DDDDDD;
 	text-transform: capitalize;
 	font-weight: 300;
 }
 
-#apps-craft-testimonial-thumb .owl-wrapper,
-#apps-craft-testimonial-thumb .owl-item{
+#edu-network-testimonial-thumb .owl-wrapper,
+#edu-network-testimonial-thumb .owl-item{
 	float: left;
 	padding: 20px 0;
 	top: 0;
 }
-#apps-craft-testimonial-thumb {
+#edu-network-testimonial-thumb {
 	text-align: center;
 	width: 170px;
 	margin: 0 auto;
 }
-#apps-craft-testimonial-thumb figure{ 
+#edu-network-testimonial-thumb figure{ 
 	display: inline-block;
 	width: 38px;
 	height: 38px;
@@ -3212,10 +3212,10 @@ blockquote.team-quote p {
 	cursor: pointer;
 	position: relative;
 }
-#apps-craft-testimonial-thumb figure img{
+#edu-network-testimonial-thumb figure img{
 	border-radius: 100%;   
 }
-#apps-craft-testimonial-thumb figure:before{
+#edu-network-testimonial-thumb figure:before{
 	position: absolute;
 	content: "";
 	top: 0;
@@ -3226,24 +3226,24 @@ blockquote.team-quote p {
 	transition: all .4s ease-in;
 	border-radius: 100%;
 }
-#apps-craft-testimonial-thumb .item{
+#edu-network-testimonial-thumb .item{
 	display: inline-block;
 }
 
-#apps-craft-testimonial-thumb .owl-item.synced figure:before{
+#edu-network-testimonial-thumb .owl-item.synced figure:before{
 	background-color: transparent;
 }
 
-#apps-craft-testimonial-thumb .owl-item.synced figure{
+#edu-network-testimonial-thumb .owl-item.synced figure{
 	width: 53px;
 	height: 53px;
 	top: -15px;
 }
-.apps-craft-testimonial-slider-wraper{
+.edu-network-testimonial-slider-wraper{
 	position: relative;
 }
-.apps-craft-testimonial-slider-wraper .customNavigation .prev,
-.apps-craft-testimonial-slider-wraper .customNavigation .next{
+.edu-network-testimonial-slider-wraper .customNavigation .prev,
+.edu-network-testimonial-slider-wraper .customNavigation .next{
 	position: absolute;
 	top: 50%;
 	left: 0;
@@ -3253,15 +3253,15 @@ blockquote.team-quote p {
 	font-size: 2.571em;
 	cursor: pointer;
 }
-.apps-craft-testimonial-slider-wraper .customNavigation .next {
+.edu-network-testimonial-slider-wraper .customNavigation .next {
 	left: inherit;
 	right: 0;
 }
-.owl-carousel .owl-item.active .apps-craft-commentor-img {
+.owl-carousel .owl-item.active .edu-network-commentor-img {
   -webkit-animation: fadeInRightPix 1s cubic-bezier(0.7, 0, 0.3, 1) 600ms both;
   animation: fadeInRightPix 1s cubic-bezier(0.7, 0, 0.3, 1) 600ms both;
 }
-.owl-carousel .owl-item.active .apps-craft-rating-and-bio {
+.owl-carousel .owl-item.active .edu-network-rating-and-bio {
   -webkit-animation: fadeInRightPix .8s cubic-bezier(0.7, 0, 0.3, 1) 600ms both;
   animation: fadeInRightPix .8s cubic-bezier(0.7, 0, 0.3, 1) 600ms both;
 }
@@ -3270,7 +3270,7 @@ blockquote.team-quote p {
 		11. Apps Craft Pricing Table 
 ===========================================================================================*/
 
-.apps-craft-single-pricing{
+.edu-network-single-pricing{
 	text-align: center;
 	background-color: #fff;
 	box-shadow: 0 0 35px rgba(0,0,0,.09);
@@ -3279,26 +3279,26 @@ blockquote.team-quote p {
 	background-position: bottom;
 	background-size: contain;
 }
-.apps-craft-pricing-head {
+.edu-network-pricing-head {
 	border-bottom: 1px solid #F4F4F4;
 	padding-bottom: 32px;
 	width: calc(100% - 36px);
 	margin: 0 auto 28px auto;
 }
-.apps-craft-pricing-head h3{
+.edu-network-pricing-head h3{
 	color: #333333;
 	margin: 0;
 	font-size: 1.714em;
 	font-weight: 500;
 	text-transform: uppercase;
 }
-.apps-craft-pricing-body h2{
+.edu-network-pricing-body h2{
 	margin: 0;
 	font-size: 4.286em;
 	font-weight: 500;
 	margin-bottom: 55px;
 }
-.apps-craft-pricing-body p{
+.edu-network-pricing-body p{
     color: #333333;
     font-weight: 400;
     margin: 0 auto 10px auto;
@@ -3306,13 +3306,13 @@ blockquote.team-quote p {
     line-height: 1.7;
     text-transform: capitalize;
 }
-.apps-craft-pricing-1 {
+.edu-network-pricing-1 {
 	background-image: url(img/pricing-body-bg-1.png);
 }
-.apps-craft-pricing-2 {
+.edu-network-pricing-2 {
 	background-image: url(img/pricing-body-bg-2.png);
 }
-.apps-craft-pricing-3 {
+.edu-network-pricing-3 {
 	background-image: url(img/pricing-body-bg-3.png);
 }
 
@@ -3321,7 +3321,7 @@ blockquote.team-quote p {
 		12. Apps Craft Team 
 ===================================================================================================*/
 
-.apps-craft-team-section{
+.edu-network-team-section{
 	background: #F4F4F4;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -3333,7 +3333,7 @@ blockquote.team-quote p {
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 }
-.apps-craft-team-member-pic {
+.edu-network-team-member-pic {
 	width: 133px;
 	height: 133px;
 	border-radius: 100%;
@@ -3344,33 +3344,33 @@ blockquote.team-quote p {
 	line-height: 133px;
 	display: block;
 }
-.apps-craft-team-member-pic img {
+.edu-network-team-member-pic img {
 	width: 112px;
 	height: 112px;
 	border-radius: 50%;
 	background-color: #fff;
 	box-shadow: 0 18px 32px rgba(0,0,0,.28);
 }
-.apps-craft-social-link{
+.edu-network-social-link{
 	text-align: center;
 }
-.apps-craft-social-link ul li {
+.edu-network-social-link ul li {
 	display: inline-block;
 	margin: 0 6px 0 0;
 }
-.apps-craft-social-link ul li:last-child{
+.edu-network-social-link ul li:last-child{
 	margin: 0;
 }
-.apps-craft-social-link ul li a{
+.edu-network-social-link ul li a{
 	color: #FFFFFF;
 	font-size: 1.714em;
 	display: block;
 }
-.apps-craft-team-img {
+.edu-network-team-img {
 	position: relative;
 	margin-bottom: 90px;
 }
-.apps-craft-team-img .apps-craft-team-hover {
+.edu-network-team-img .edu-network-team-hover {
 	position: absolute;
 	top: 65%;
 	left: 50%;
@@ -3381,12 +3381,12 @@ blockquote.team-quote p {
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 }
-.apps-craft-team-member-pic:hover .apps-craft-team-hover {
+.edu-network-team-member-pic:hover .edu-network-team-hover {
 	top: 50%;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
-.apps-craft-team-img:before{
+.edu-network-team-img:before{
 	position: absolute;
 	content: "";
 	top: 100%;
@@ -3394,10 +3394,10 @@ blockquote.team-quote p {
 	height: 89px;
 	width: 1px;
 }
-.apps-craft-team-bio {
+.edu-network-team-bio {
 	text-align: center;
 }
-.apps-craft-team-bio h2 {
+.edu-network-team-bio h2 {
 	margin: 0;
 	text-transform: uppercase;
 	color: #333333;
@@ -3405,18 +3405,18 @@ blockquote.team-quote p {
 	font-weight: 500;
 	margin-bottom: 18px;
 }
-.apps-craft-team-bio h5 {
+.edu-network-team-bio h5 {
 	margin: 0;
 	font-size: 1em;
 	color: #666666;
 	font-weight: 400;
 	text-transform: capitalize;
 }
-.apps-craft-team-bio h5 span{
+.edu-network-team-bio h5 span{
 	color: #333333;
 	font-weight: 500;
 }
-.apps-craft-team-member-pic:before{
+.edu-network-team-member-pic:before{
 	position: absolute;
 	content: "";
 	top: 0;
@@ -3431,7 +3431,7 @@ blockquote.team-quote p {
 	-webkit-transition: all .4s linear;
 	transition: all .4s linear;
 }
-.apps-craft-team-member-pic:hover:before{
+.edu-network-team-member-pic:hover:before{
 	opacity: .83;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=83)";
 }
@@ -3440,28 +3440,28 @@ blockquote.team-quote p {
 		13. Apps Craft now Available 
 =======================================================================================*/
 
-.apps-craft-now-available-section {
+.edu-network-now-available-section {
 	background-color: #232838;
 	position: relative;
 	background-repeat: no-repeat;
 	background-position: center center;
 	text-align: center;
 }
-.apps-craft-app-secreenshort{
+.edu-network-app-secreenshort{
 	width: calc(100% - 200px);
 	margin: 0 auto;
 	position: absolute;
 	bottom: 0;
 	left: 50%;
 }
-.apps-craft-now-available-section div.apps-craft-tbl {
+.edu-network-now-available-section div.edu-network-tbl {
 	height: 630px;
 }
-.apps-craft-now-available-content {
+.edu-network-now-available-content {
 	width: 56.6666667%;
 	margin: 0 auto;
 }
-.apps-craft-now-available-content h3 {
+.edu-network-now-available-content h3 {
 	margin: 0;
 	text-transform: capitalize;
 	font-size: 2.571em;
@@ -3469,7 +3469,7 @@ blockquote.team-quote p {
 	color: #FFFFFF;
 	margin-bottom: 55px;
 }
-.apps-craft-now-available-content p {
+.edu-network-now-available-content p {
 	margin: 0;
 	font-weight: 400;
 	color: #E3E3E3;
@@ -3482,7 +3482,7 @@ blockquote.team-quote p {
 		14. Apps Craft Subscribe 
 ===============================================================================================*/
 
-.apps-craft-subscribe-wraper{
+.edu-network-subscribe-wraper{
 	position: relative;
 	background-color: #fff;
 	box-shadow: 0px 29px 43px 0px rgba(0, 0, 0, 0.21);
@@ -3490,8 +3490,8 @@ blockquote.team-quote p {
 	padding: 162px 0;
 	min-height: 410px;
 }
-.apps-craft-subscribe-wraper:before ,
-.apps-craft-subscribe-wraper:after {
+.edu-network-subscribe-wraper:before ,
+.edu-network-subscribe-wraper:after {
 	position: absolute;
 	content: "";
 	top: -75px;
@@ -3503,13 +3503,13 @@ blockquote.team-quote p {
 	        transform: rotate(45deg);
 	border-radius: 50px;
 }
-.apps-craft-subscribe-wraper:after {
+.edu-network-subscribe-wraper:after {
 	left: inherit;
 	right: 29px;
 	-webkit-transform: rotate(-45deg);
 	        transform: rotate(-45deg);
 }
-.apps-craft-3-bar {
+.edu-network-3-bar {
 	position: absolute;
 	top: 0;
 	left: 50%;
@@ -3517,12 +3517,12 @@ blockquote.team-quote p {
 	        transform: translateX(-50%);
 }
 
-.apps-craft-subscribe-content {
+.edu-network-subscribe-content {
 	width: 50%;
 	margin: 0 auto;
 	color: #FFFFFF;
 }
-.apps-craft-subscribe-content h2 {
+.edu-network-subscribe-content h2 {
 	font-size: 2.571em;
 	margin: 0;
 	text-transform: capitalize;
@@ -3531,11 +3531,11 @@ blockquote.team-quote p {
 	text-align: center;
 	line-height: 1.3;
 }
-.apps-craft-subscribe-content h2 span{
+.edu-network-subscribe-content h2 span{
 	font-weight: 600;
 }
 
-.apps-craft-subscribe-form input[type="text"]{
+.edu-network-subscribe-form input[type="text"]{
 	width: calc(100% - 0px);
 	height: 70px;
 	border-radius: 35px;
@@ -3545,19 +3545,19 @@ blockquote.team-quote p {
 	color: #000;
 	float: left;
 }
-.apps-craft-subscribe-form input[type="text"]::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+.edu-network-subscribe-form input[type="text"]::-webkit-input-placeholder { /* Chrome/Opera/Safari */
 	color: #666666;
 }
-.apps-craft-subscribe-form input[type="text"]::-moz-placeholder { /* Firefox 19+ */
+.edu-network-subscribe-form input[type="text"]::-moz-placeholder { /* Firefox 19+ */
 	color: #666666;
 }
-.apps-craft-subscribe-form input[type="text"]:-ms-input-placeholder { /* IE 10+ */
+.edu-network-subscribe-form input[type="text"]:-ms-input-placeholder { /* IE 10+ */
 	color: #666666;
 }
-.apps-craft-subscribe-form input[type="text"]:-moz-placeholder { /* Firefox 18- */
+.edu-network-subscribe-form input[type="text"]:-moz-placeholder { /* Firefox 18- */
 	color: #666666;
 }
-.apps-craft-subscribe-form input[type="submit"]{
+.edu-network-subscribe-form input[type="submit"]{
 	width: 160px;
 	height: 54px;
 	border-radius: 27px;
@@ -3570,7 +3570,7 @@ blockquote.team-quote p {
 	float: left;
 	margin-top: 8px;
 }
-body.apps-craft-v6 .apps-craft-subscribe-content {
+body.edu-network-v6 .edu-network-subscribe-content {
     position: relative;
     z-index: 4;
 }
@@ -3580,32 +3580,32 @@ body.apps-craft-v6 .apps-craft-subscribe-content {
 		15. Apps Craft FAQ Section 
 ====================================================================================*/
 
-.apps-craft-faq-section {
+.edu-network-faq-section {
 	background-color: #F4F4F4;
 }
 
-.apps-craft-accordion .panel-title a{
+.edu-network-accordion .panel-title a{
 	display: block;
 }
-.apps-craft-accordion .panel-heading{
+.edu-network-accordion .panel-heading{
 	background-color: transparent;
 	border: 0px solid;
 	border-color: transparent;
 	padding: 0;
 }
-.apps-craft-accordion .panel-default{
+.edu-network-accordion .panel-default{
 	border-color: transparent;
 }
-.apps-craft-accordion .panel{
+.edu-network-accordion .panel{
 	box-shadow: none;
 	margin-bottom: 35px;
 }
-.apps-craft-accordion .panel-default>.panel-heading+.panel-collapse>.panel-body{
+.edu-network-accordion .panel-default>.panel-heading+.panel-collapse>.panel-body{
 	border-top-color: transparent;
 	border: 0px solid;
 	padding: 22px 42px;
 }
-.apps-craft-accordion .panel-title{
+.edu-network-accordion .panel-title{
 	width: 100%;
 	height: 90px;
 	border-radius: 3px;
@@ -3614,7 +3614,7 @@ body.apps-craft-v6 .apps-craft-subscribe-content {
 	-webkit-transition: all .4s linear;
 	transition: all .4s linear;
 }
-.apps-craft-accordion .panel-title a{
+.edu-network-accordion .panel-title a{
 	display: table-cell;
 	vertical-align: middle;
 	color: #FFFFFF;
@@ -3625,7 +3625,7 @@ body.apps-craft-v6 .apps-craft-subscribe-content {
 	-webkit-transition: all .4s linear;
 	transition: all .4s linear;
 }
-.apps-craft-accordion .panel-title a.collapsed:before{
+.edu-network-accordion .panel-title a.collapsed:before{
 	position: absolute;
 	content: "+";
 	width: 36px;
@@ -3643,7 +3643,7 @@ body.apps-craft-v6 .apps-craft-subscribe-content {
 	-webkit-transition: all .4s ease-in;
 	transition: all .4s ease-in;
 }
-.apps-craft-accordion .panel-title a:before{
+.edu-network-accordion .panel-title a:before{
 	position: absolute;
 	content: "-";
 	width: 36px;
@@ -3661,33 +3661,33 @@ body.apps-craft-v6 .apps-craft-subscribe-content {
 	        transform: translateY(-50%) rotate(360deg);
 	color: #FFFFFF;
 }
-.apps-craft-accordion .panel-collapse.collapse.in{
+.edu-network-accordion .panel-collapse.collapse.in{
 	border-radius: 3px;
 	background-color: #fff;
 	box-shadow: 0 0 32px rgba(0,0,0,.05);
 }
-.apps-craft-accordion .panel-collapse .panel-body{
+.edu-network-accordion .panel-collapse .panel-body{
 	color: #666666;
 	font-size: 1em;
 }
-.apps-craft-accordion .panel-title.click{
+.edu-network-accordion .panel-title.click{
 	background-color: #FFFFFF;
 	background-image: none;
 }
-.apps-craft-accordion .panel-title.click a{
+.edu-network-accordion .panel-title.click a{
 	color: #333333;
 }
 
-.apps-craft-contact-form-content {
+.edu-network-contact-form-content {
 	background-color: #fff;
 	box-shadow: 0 0 32px rgba(0,0,0,.05);
 }
-.apps-craft-contact-form-content-inner {
+.edu-network-contact-form-content-inner {
 	width: calc(100% - 170px);
 	margin: 0 auto;
 	padding: 86px 0;
 }
-.apps-craft-contact-form-content h2{
+.edu-network-contact-form-content h2{
 	color: #666666;
 	margin: 0;
 	text-transform: capitalize;
@@ -3696,11 +3696,11 @@ body.apps-craft-v6 .apps-craft-subscribe-content {
 	margin-bottom: 32px;
 	line-height: 1.2;
 }
-.apps-craft-contact-form-content h2 span {
+.edu-network-contact-form-content h2 span {
 	font-weight: 700;
 }
-.apps-craft-contact-form input[type="text"],
-.apps-craft-contact-form textarea{
+.edu-network-contact-form input[type="text"],
+.edu-network-contact-form textarea{
 	width: 100%;
 	height: 60px;
 	background-color: #FFFFFF;
@@ -3712,17 +3712,17 @@ body.apps-craft-v6 .apps-craft-subscribe-content {
 	display: block;
 	margin-bottom: 15px;
 }
-.apps-craft-contact-form textarea {
+.edu-network-contact-form textarea {
 	resize: none;
 	height: 180px;
 	padding: 25px;
 }
-.apps-craft-contact-form input[type="text"]:focus,
-.apps-craft-contact-form textarea:focus {
+.edu-network-contact-form input[type="text"]:focus,
+.edu-network-contact-form textarea:focus {
 	box-shadow: 0 3px 27px rgba(0,0,0,.08);
 	border-color: #fff;
 }
-.apps-craft-contact-form input[type="submit"]{
+.edu-network-contact-form input[type="submit"]{
 	width: 180px;
 	height: 60px;
 	border-radius: 3px;
@@ -3738,7 +3738,7 @@ body.apps-craft-v6 .apps-craft-subscribe-content {
 		16. Apps Craft Footer 
 ===========================================================================*/
 
-.apps-craft-footer-section {
+.edu-network-footer-section {
 	background-color: #F4F4F4;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -3747,51 +3747,51 @@ body.apps-craft-v6 .apps-craft-subscribe-content {
 	padding-top: 360px;
 	background-image: url(img/footer-bg.png);
 }
-.apps-craft-subscribe-form-box-shadow {
+.edu-network-subscribe-form-box-shadow {
 	background-color: rgba(244,244,244,.98);
 	box-shadow: 0 8px 32px rgba(0,0,0,.28);
 	border-color: #c1c1c1;
 	border-radius: 35px;
 }
-.apps-craft-footer-section .apps-craft-subscribe-content{
+.edu-network-footer-section .edu-network-subscribe-content{
 	margin-bottom: 115px;
 }
-.apps-craft-footer-logo {
+.edu-network-footer-logo {
 	padding-bottom: 77px;
 }
-.apps-craft-footer-logo-and-social {
+.edu-network-footer-logo-and-social {
 	padding-bottom: 120px;
 }
-.apps-craft-solid-color .apps-craft-footer-section .apps-craft-footer-logo {
+.edu-network-solid-color .edu-network-footer-section .edu-network-footer-logo {
 	padding-bottom: 47px;
 }
-.apps-craft-solid-color .apps-craft-welcome-section .apps-craft-about-section .apps-craft-subscribe-content {
+.edu-network-solid-color .edu-network-welcome-section .edu-network-about-section .edu-network-subscribe-content {
 	width: 50%;
 	margin: 0 auto;
 	padding: 0;
 }
 
-.apps-craft-footer-menu-and-copyright-txt .apps-craft-copyright-txt {
+.edu-network-footer-menu-and-copyright-txt .edu-network-copyright-txt {
 	width: 100%;
 	float: left;
 	text-align: center;
 }
-.apps-craft-copyright-txt p {
+.edu-network-copyright-txt p {
 	color: #FFFFFF;
 	margin: 0;
 	text-transform: uppercase;
 	font-weight: 500;
 }
 
-.apps-craft-footer-menu-and-copyright-txt .apps-craft-footer-menu {
+.edu-network-footer-menu-and-copyright-txt .edu-network-footer-menu {
 	width: 100%;
 	float: left;
 	text-align: center;
 }
-.apps-craft-footer-menu ul li {
+.edu-network-footer-menu ul li {
 	display: inline-block;
 }
-.apps-craft-footer-menu ul li a {
+.edu-network-footer-menu ul li a {
 	display: block;
 	color: #FFFFFF;
 	text-transform: uppercase;
@@ -3840,7 +3840,7 @@ body.apps-craft-v6 .apps-craft-subscribe-content {
 /*==================================================================
   18. Contact Form
   =================================================================*/
-form#apps-craft-form{
+form#edu-network-form{
 	position: relative;
 }
 div.apps_craft_error {
@@ -3860,7 +3860,7 @@ input.apps_craft_input_error {
 	-webkit-transition: all .4s;
 	transition: all .4s;
 }
-div.apps-craft-success-message {
+div.edu-network-success-message {
 	color: green;
 	margin-top: 15px;
 	position: absolute;
@@ -3868,7 +3868,7 @@ div.apps-craft-success-message {
 	text-align: center;
 	left: 0;
 }
-.apps-craft-submit-btn-ar {
+.edu-network-submit-btn-ar {
 	position: relative;
 	display: inline-block;
 }
@@ -3879,14 +3879,14 @@ div.apps-craft-success-message {
 =================================================================*/
 
 
-span.apps-craft-loader.apps-craft-loader1 {
+span.edu-network-loader.edu-network-loader1 {
 	position: absolute;
 	-webkit-transform: translateY(-50%);
 		transform: translateY(-50%);
 	top: 50%;
 	right: -52px;
 }
-.apps-craft-loader, .apps-craft-loader:before, .apps-craft-loader:after {
+.edu-network-loader, .edu-network-loader:before, .edu-network-loader:after {
 	display: inline-block;
 	width: 30px;
 	height: 30px;
@@ -3899,11 +3899,11 @@ span.apps-craft-loader.apps-craft-loader1 {
 /**
  * Loader1
  */
-.apps-craft-loader1 {
+.edu-network-loader1 {
 	position: relative;
 	border: 5px solid rgb(29, 70, 82);
 }
-.apps-craft-loader1:after {
+.edu-network-loader1:after {
 	content:'';
 	position: absolute;
 	top: -5px;
@@ -4075,17 +4075,17 @@ span.apps-craft-loader.apps-craft-loader1 {
 /*=================================================================== 
 			Extra 
 =========================================================*/
-.apps-craft-subscribe-form form#mc-form{
+.edu-network-subscribe-form form#mc-form{
 	position: relative;
 	text-align: center;
 }
-.apps-craft-subscribe-form label.error {
+.edu-network-subscribe-form label.error {
 	color: red;
 }
-.apps-craft-subscribe-form label.valid {
+.edu-network-subscribe-form label.valid {
 	color: green;
 }
-.apps-craft-subscribe-form label {
+.edu-network-subscribe-form label {
 	display: block;
 	text-align: center;
 	width: 100%;
@@ -4100,12 +4100,12 @@ span.apps-craft-loader.apps-craft-loader1 {
 	-webkit-transition: opacity .4s;
 	transition: opacity .4s;
 }
-label.apps-craft-subscribed-label{
+label.edu-network-subscribed-label{
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: static;
 }
-.apps-craft-subscribe-form {
+.edu-network-subscribe-form {
 	background-color: #fff;
 	border-top-right-radius: 35px;
 	border-top-left-radius: 35px;
@@ -4135,16 +4135,16 @@ label.apps-craft-subscribed-label{
     content: "";
     background: url(img/mobile.png) center center / 100% 100% no-repeat scroll;
 }
-.apps-craft-banner-swiper {
+.edu-network-banner-swiper {
     position: absolute;
     width: 100%;
     z-index: 9;
     bottom: 0px;
 }
-body.apps-craft-v9 .apps-craft-welcome-section {
+body.edu-network-v9 .edu-network-welcome-section {
 	background-position: bottom center;
 }
-.apps-craft-banner-swiper:before {
+.edu-network-banner-swiper:before {
 	content: "";
 	position: absolute;
 	width: 0;
@@ -4154,20 +4154,20 @@ body.apps-craft-v9 .apps-craft-welcome-section {
 	border-bottom: 50vh solid #F4F4F4;
 	bottom: 0;
 }
-.apps-craft-banner-swiper:after {
+.edu-network-banner-swiper:after {
 	content: "";
 }
-body.apps-craft-v9 .apps-craft-welcome-content {
+body.edu-network-v9 .edu-network-welcome-content {
 	text-align: center;
 	color: #FFFFFF;
 }
-body.apps-craft-v9 .apps-craft-welcome-content h1 {
+body.edu-network-v9 .edu-network-welcome-content h1 {
 	margin-bottom: 25px;
 }
-.apps-craft-download-store-btn-group {
+.edu-network-download-store-btn-group {
 	margin-top: 40px;
 }
-body.apps-craft-v9 .apps-craft-welcome-section .apps-craft-welcome-tbl {
+body.edu-network-v9 .edu-network-welcome-section .edu-network-welcome-tbl {
     height: 650px;
 }
 .videowrapper {

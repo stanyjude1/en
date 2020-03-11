@@ -34,8 +34,8 @@
       1. Auto Height Function
   ================================================*/
   function autoHeight() {
-    var why_choose_img = $('.apps-craft-why-chose-img'),
-      why_choose_txt = $('.apps-craft-why-choose-us-container');
+    var why_choose_img = $('.edu-network-why-chose-img'),
+      why_choose_txt = $('.edu-network-why-choose-us-container');
 
       why_choose_txt.css('height', why_choose_img.outerHeight());
   }
@@ -64,7 +64,7 @@ $(window).on('load', function() {
   $('#preloader').fadeOut(450);
 
 
-  $('body').addClass('apps-craft--loaded');
+  $('body').addClass('edu-network--loaded');
 
 
 }); // end on.load event
@@ -89,8 +89,8 @@ $(document).ready(function(){
   /*=============================================== 
       6. Apps Craft Top Menu Offset
   ================================================*/
-  if($('.apps-craft-menu ul li a, .apps-craft-menu-item ul li a, .apps-craft-logo a').length >0 ) {
- 	$('.apps-craft-menu ul li a, .apps-craft-menu-item ul li a, .apps-craft-logo a').on('click', function(event) {
+  if($('.edu-network-menu ul li a, .edu-network-menu-item ul li a, .edu-network-logo a').length >0 ) {
+ 	$('.edu-network-menu ul li a, .edu-network-menu-item ul li a, .edu-network-logo a').on('click', function(event) {
  		event.preventDefault();
 
  		var target = $(this.getAttribute('href'));
@@ -104,8 +104,8 @@ $(document).ready(function(){
   /*=============================================== 
       7. Apps Craft Footer Menu Offset
   ================================================*/
- if($('.apps-craft-footer-menu').length >0 ) {
-  $( '.apps-craft-footer-menu' ).on('click', 'a', function(e){
+ if($('.edu-network-footer-menu').length >0 ) {
+  $( '.edu-network-footer-menu' ).on('click', 'a', function(e){
     var href = $(this).attr("href"),
         offsetTop = href === "#" ? 0 : $(href).offset().top - 0;
     $('html, body').stop().animate({ 
@@ -119,10 +119,10 @@ $(document).ready(function(){
       8. Apps Craft Sync Slider
   ================================================*/
 
-  if ($('#apps-craft-commentor-slider').length >0) {
+  if ($('#edu-network-commentor-slider').length >0) {
 
-    var sync1 = $("#apps-craft-commentor-slider");
-    var sync2 = $("#apps-craft-testimonial-thumb");
+    var sync1 = $("#edu-network-commentor-slider");
+    var sync2 = $("#edu-network-testimonial-thumb");
 
     sync1.owlCarousel({
       singleItem : true,
@@ -158,17 +158,17 @@ $(document).ready(function(){
 
     function syncPosition(el){
       var current = this.currentItem;
-      $("#apps-craft-testimonial-thumb")
+      $("#edu-network-testimonial-thumb")
         .find(".owl-item")
         .removeClass("synced")
         .eq(current)
         .addClass("synced")
-      if($("#apps-craft-testimonial-thumb").data("owlCarousel") !== undefined){
+      if($("#edu-network-testimonial-thumb").data("owlCarousel") !== undefined){
         center(current)
       }
     }
 
-    $("#apps-craft-testimonial-thumb").on("click", ".owl-item", function(e){
+    $("#edu-network-testimonial-thumb").on("click", ".owl-item", function(e){
       e.preventDefault();
       var number = $(this).data("owlItem");
       sync1.trigger("owl.goTo",number);
@@ -205,8 +205,8 @@ $(document).ready(function(){
 /*=============================================== 
       9. Apps Craft Video pop UP
   ================================================*/
-if ($('.apps-craft-popup-video').length > 0) {
-  $('.apps-craft-popup-video').magnificPopup({
+if ($('.edu-network-popup-video').length > 0) {
+  $('.edu-network-popup-video').magnificPopup({
     disableOn: 700,
     type: 'iframe',
     mainClass: 'mfp-fade',
@@ -220,7 +220,7 @@ if ($('.apps-craft-popup-video').length > 0) {
 /*=============================================== 
      10. Apps Craft Video Background
   ================================================*/
-if ($('.apps-craft-video-bg-section').length > 0) {
+if ($('.edu-network-video-bg-section').length > 0) {
   var options = { 
     videoId: 'waTteMeg4Ag', 
     start: 3 ,
@@ -228,14 +228,14 @@ if ($('.apps-craft-video-bg-section').length > 0) {
     wrapperZIndex: 99,
     repeat: true,
   };
-  $('.apps-craft-video-bg-section').tubular(options);
+  $('.edu-network-video-bg-section').tubular(options);
 }
 
 /*=============================================== 
      11. Apps Craft Welcome Slider
   ================================================*/
-if ($('#apps-craft-welcome-slider').length > 0) {
-  var owl1 = $("#apps-craft-welcome-slider");
+if ($('#edu-network-welcome-slider').length > 0) {
+  var owl1 = $("#edu-network-welcome-slider");
   owl1.owlCarousel({
       slideSpeed : 300,
       paginationSpeed : 400,
@@ -263,7 +263,7 @@ $("#showcaseSlider").owlCarousel({
 
 });
 
-$("#apps-craft-appscreen-slide").owlCarousel({
+$("#edu-network-appscreen-slide").owlCarousel({
     pagination: true,
     navigation : false, // Show next and prev buttons
     slideSpeed : 300,
@@ -276,9 +276,9 @@ $("#apps-craft-appscreen-slide").owlCarousel({
 /*=============================================== 
      12. Apps Craft Accordion
   ================================================*/
-if ($('.apps-craft-accordion .panel-title').length > 0) {
-  $('.apps-craft-accordion .panel-title').click(function(){
-    $('.apps-craft-accordion .panel-title').removeClass('click');
+if ($('.edu-network-accordion .panel-title').length > 0) {
+  $('.edu-network-accordion .panel-title').click(function(){
+    $('.edu-network-accordion .panel-title').removeClass('click');
     $(this).addClass('click');
   });
 }
@@ -287,20 +287,20 @@ if ($('.apps-craft-accordion .panel-title').length > 0) {
 			13. Contact Form
 		================================================*/
 
-		if ($('#apps-craft-form').length > 0) {
+		if ($('#edu-network-form').length > 0) {
 
-	  var apps_craft_contact_btn = $('#apps-craft-input-send'),
-	      apps_craft_form = $('#apps-craft-form');
+	  var apps_craft_contact_btn = $('#edu-network-input-send'),
+	      apps_craft_form = $('#edu-network-form');
 
 	  apps_craft_form.on('submit', function(e){
 	    e.preventDefault();
 
-	    $('.apps_craft_error, .apps-craft-success-message, .apps-craft-loader').remove();
+	    $('.apps_craft_error, .edu-network-success-message, .edu-network-loader').remove();
 	    $('.form-group input').removeClass('apps_craft_input_error');
 
-	    var apps_craft_input_name     = $('#apps-craft-input-name'),
-	        apps_craft_input_email    = $('#apps-craft-input-email'),
-	        apps_craft_input_message  = $('#apps-craft-input-message'),
+	    var apps_craft_input_name     = $('#edu-network-input-name'),
+	        apps_craft_input_email    = $('#edu-network-input-email'),
+	        apps_craft_input_message  = $('#edu-network-input-message'),
 	        apps_craft_error          = false,
 	        self                  = $(this);
 
@@ -319,7 +319,7 @@ if ($('.apps-craft-accordion .panel-title').length > 0) {
 	    }
 
 	    if(apps_craft_error === false){
-	      apps_craft_contact_btn.before('<span class="apps-craft-loader apps-craft-loader1"></span>').hide().fadeIn();
+	      apps_craft_contact_btn.before('<span class="edu-network-loader edu-network-loader1"></span>').hide().fadeIn();
 	      $.ajax({
 	        type: "POST",
 	        url: "php/contact-form.php",
@@ -329,9 +329,9 @@ if ($('.apps-craft-accordion .panel-title').length > 0) {
 	          'apps_craft_input_message' : apps_craft_input_message.val()
 	        },
 	        success: function(result){
-	           apps_craft_contact_btn.after('<div class="apps-craft-success-message">' + result + '</div>').hide().fadeIn();
+	           apps_craft_contact_btn.after('<div class="edu-network-success-message">' + result + '</div>').hide().fadeIn();
 
-	           $(".apps-craft-loader").fadeOut("normal", function() {
+	           $(".edu-network-loader").fadeOut("normal", function() {
 	              $(this).remove();
 	          });
 	        }
@@ -370,8 +370,8 @@ var mySkrollr = skrollr.init({
 /*--------------------------------------------------------------
   20. RIPPLES CANVAS
 --------------------------------------------------------------*/
-var ripple = $('body.apps-craft-v8 #apps-craft-home');
-if ($('body.apps-craft-v8 #apps-craft-home').length > 0 ) {
+var ripple = $('body.edu-network-v8 #edu-network-home');
+if ($('body.edu-network-v8 #edu-network-home').length > 0 ) {
   ripple.ripples({
     resolution: 512,
     dropRadius: 10, //px
@@ -394,17 +394,17 @@ if ($('body.apps-craft-v8 #apps-craft-home').length > 0 ) {
   ================================================*/
 
 // Apps Craft Side bar Menu
-$('.apps-craft-humberger-menu').on('click', function() {
-	if ($('.apps-craft-side-bar-menu').hasClass('active')) {
-		$('.apps-craft-side-bar-menu').removeClass('active');
+$('.edu-network-humberger-menu').on('click', function() {
+	if ($('.edu-network-side-bar-menu').hasClass('active')) {
+		$('.edu-network-side-bar-menu').removeClass('active');
 	} else {
-		$('.apps-craft-side-bar-menu').addClass('active');
+		$('.edu-network-side-bar-menu').addClass('active');
 	}
 });
 
-$('.apps-craft-menu-item ul li a, .apps-craft-logo a').on('click', function(event) {
-	if ($('.apps-craft-side-bar-menu').hasClass('active')) {
-		$('.apps-craft-side-bar-menu').removeClass('active');
+$('.edu-network-menu-item ul li a, .edu-network-logo a').on('click', function(event) {
+	if ($('.edu-network-side-bar-menu').hasClass('active')) {
+		$('.edu-network-side-bar-menu').removeClass('active');
 	}
 });
 
@@ -412,9 +412,9 @@ $('.apps-craft-menu-item ul li a, .apps-craft-logo a').on('click', function(even
       17. particle active
   ================================================*/
 
-if ($('body').hasClass('apps-craft-particle')) {
+if ($('body').hasClass('edu-network-particle')) {
 
-  particlesJS("apps-craft-home", {
+  particlesJS("edu-network-home", {
     "particles": {
       "number": {
         "value": 500,
@@ -571,9 +571,9 @@ if ($('body').hasClass('apps-craft-particle')) {
 
 $(window).scroll(function(){
   if ($(window).scrollTop() > 50) {
-     $('.apps-craft-main-menu-area').addClass('sticky-menu'); 
+     $('.edu-network-main-menu-area').addClass('sticky-menu'); 
   } else {
-      $('.apps-craft-main-menu-area').removeClass('sticky-menu');
+      $('.edu-network-main-menu-area').removeClass('sticky-menu');
   }
 }); // End Scroll Function
 
@@ -677,9 +677,9 @@ var transformProp = Modernizr.prefixed('transform');
   /*--------------------------------------------------------------
     19.  Apps Craft - MENU TOGGLE INIT
   --------------------------------------------------------------*/
-  var apps_main_menu_icon = $("#apps-craft-main-menu-icon"),
-      apps_main_menu_nave = $('#apps-craft-menu'),
-      apps_main_menu_link = $("#apps-craft-menu ul li a");
+  var apps_main_menu_icon = $("#edu-network-main-menu-icon"),
+      apps_main_menu_nave = $('#edu-network-menu'),
+      apps_main_menu_link = $("#edu-network-menu ul li a");
 
 
   if(apps_main_menu_icon.length >0 ){
@@ -710,8 +710,8 @@ var transformProp = Modernizr.prefixed('transform');
   --------------------------------------------------------------*/
   $(document).on("mousemove", function( e ) {
 if ($('.parallax').length > 0 ) {
-      $( '.apps-craft-welcome-content.parallax' ).parallax( -40, e );
-      $( '.apps-craft-welcome-screenshort.parallax' ).parallax( 40 , e );
+      $( '.edu-network-welcome-content.parallax' ).parallax( -40, e );
+      $( '.edu-network-welcome-screenshort.parallax' ).parallax( 40 , e );
 }
   }); // end document mouvemove
 
